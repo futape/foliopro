@@ -160,7 +160,7 @@
 
     <string name="facebook_app_id">749196541804006</string>
     <string name="get_started">Войти с Facebooks</string>
-    <string name="send_feedback">Обратная связь Folio</string>
+    <string name="send_feedback">Обратная связь Folio Pro</string>
     <string name="ok">ОК</string>
     <string name="applying_changes">Очистка кеша. Перезапустите Folio Pro.</string>
 
@@ -440,7 +440,7 @@
     <string name="preference_set_category">Всё готово?</string>
     <string name="preference_donate_category">Купить Folio Key</string>
     <string name="preference_rest_category">Сбросить Folio к стандартным настройкам</string>
-    <string name="preference_category15">Настройки макета Folio</string>
+    <string name="preference_category15">Настройки макета Folio Pro</string>
     <string name="preference_facebook_layouts">Настройки макета Facebook</string>
 
     <string name="fixed_nav">Закреплённая панель Facebook</string>
