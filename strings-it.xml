@@ -158,7 +158,7 @@
     <string name="share_action_subject">Pagina Facebook</string>
     <!-- Save Image On Long Press -->
 
-    
+
     <string name="get_started">Login con Facebook</string>
     <string name="send_feedback">Invia Feedback</string>
     <string name="ok">OK</string>
@@ -554,7 +554,7 @@
     </string-array>
 
 
-   
+
 
     <string name="not_valid_title">Non valido</string>
     <string name="not_valid_message">Questa versione di Folio non proviene dal Play Store pertanto non funziona.</string>
@@ -592,8 +592,8 @@
     <string name="folio_lock">Abilita Folio Lock</string>
     <string name="folio_lock_hint">Usa la tua impronta digitale (solo dispositivi supportati), o una password per sbloccare/bloccare Folio?</string>
 
-    <string name="folio_message_bubble">Abilita Folio QuickMessage</string>
-    <string name="folio_message_bubble_hint">Usare i QuickMessage per restare nelle conversazioni ?</string>
+    <string name="folio_message_bubble">QuickMessages</string>
+    <string name="folio_message_bubble_hint">Usare i QuickMessages per restare nelle conversazioni ?</string>
 
     <string name="folio_video">Carica video</string>
     <string name="folio_checkins">Check-in</string>
