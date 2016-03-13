@@ -548,19 +548,19 @@
     <string name="credits_italian_description">Italiano</string>
 
     <string name="credits_spanish">Marco Rubio Asensio</string>
-    <string name="credits_spanish_description">EspaÃ±ol</string>
+    <string name="credits_spanish_description">Español</string>
 
     <string name="credits_german">Clemens Corell</string>
     <string name="credits_german_description">Deutsch</string>
 
-    <string name="credits_brazilian">VinÃ­cius Rubens Pedrinho</string>
-    <string name="credits_brazilian_description">PortuguÃªs de Brasil</string>
+    <string name="credits_brazilian">Vinícius Rubens Pedrinho</string>
+    <string name="credits_brazilian_description">Português de Brasil</string>
 
-    <string name="credits_turk">Mehmet Ã‡alÄ±ÅŸkan</string>
-    <string name="credits_turk_description">TÃ¼rkÃ§e</string>
+    <string name="credits_turk">Mehmet Çalışkan</string>
+    <string name="credits_turk_description">Türkçe</string>
 
     <string name="credits_fren">Jean Philippe</string>
-    <string name="credits_fren_description">FranÃ§ais</string>
+    <string name="credits_fren_description">Français</string>
 
     <string name="credits_pol">seba112</string>
     <string name="credits_pol_description">Polski</string>
@@ -574,8 +574,8 @@
     <string name="credits_rom">Iulian Szidelo</string>
     <string name="credits_rom_description">Romana</string>
 
-    <string name="credits_rus">ÐÑ€Ñ‚Ñ‘Ð¼ ÐŸÐµÑ‚Ñ€Ð¾Ð²</string>
-    <string name="credits_rus_description">Ð ÑƒÑÑÐºÐ¸Ð¹</string>
+    <string name="credits_rus">Артём Петров</string>
+    <string name="credits_rus_description">Русский</string>
 
     <string name="help_trans">Help Translate</string>
     <string name="help_trans_hint">Tap to help translate Folio into your language.</string>
@@ -764,19 +764,6 @@
     </string-array>
 
 
-    <string name="pro_user1">97211866bf42497</string>
-    <string name="pro_user2">2c35cb58ac254dc9</string>
-    <string name="pro_user3">f4025684dd48e3e4</string>
-    <string name="pro_user4">e79d95f674464bb5</string>
-    <string name="pro_user5">3413eb7ff69ac193</string>
-    <string name="pro_user6">d5d0fdb1de928058</string>
-    <string name="pro_user7">7166dc0614ceab13</string>
-    <string name="pro_user8">fd82839ef512e3f4</string>
-    <string name="pro_user9">e9a6b0a417036de4</string>
-    <string name="pro_user10">d622c9dcc1fa6b3aa</string>
-    <string name="pro_user11">cf2487c5ff09bf67</string>
-    <string name="pro_user12">e61317caba3a8259</string>
-    <string name="pro_user13">e9a6b0a417036de4</string>
 
     <string name="not_valid_title">Not Valid</string>
     <string name="not_valid_message">This version of Folio is not from the Play Store and will not function.</string>
@@ -814,8 +801,8 @@
     <string name="folio_lock">Enable Folio Lock</string>
     <string name="folio_lock_hint">Use your fingerprint or a passcode to lock/unlock Folio?</string>
 
-    <string name="folio_message_bubble">Message Bubbles</string>
-    <string name="folio_message_bubble_hint">Turn on Message Bubbles?</string>
+    <string name="folio_message_bubble">QuickMessages</string>
+    <string name="folio_message_bubble_hint">Turn on QuickMessages?</string>
 
     <string name="folio_video">Upload video</string>
     <string name="folio_checkins">Check-in</string>
