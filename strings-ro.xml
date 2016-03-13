@@ -443,29 +443,29 @@
     <string name="preference_category15">Setarile de aspect pentru  aplicatie</string>
     <string name="preference_facebook_layouts">Setarile de aspect pentru Facebook</string>
 
-    <string name="fixed_nav">Fixed Facebook bar</string>
-    <string name="fixed_nav_description">Facebook navigation bar always on top.</string>
+    <string name="fixed_nav">Bara fixa Facebook</string>
+    <string name="fixed_nav_description">Bara fixa Facebook va ramane mereu deasupra.</string>
 
-    <string name="credits_licenses">Tap here to read more about the licences used in Folio Pro.</string>
-    <string name="credits_licenses_description">Open source software licenses</string>
-    <string name="clear_cache">Clear Data</string>
+    <string name="credits_licenses">Apasa aici pentru a afla despre licentele folosite de Folio Pro.</string>
+    <string name="credits_licenses_description">Licente surse libere</string>
+    <string name="clear_cache">Sterge datele aplicatiei</string>
 
-    <string name="clear_cache_title">Are you sure?</string>
-    <string name="clear_cache_message">Tap OK to clear Folio\'s data. This will also log you out.</string>
+    <string name="clear_cache_title">Esti sigur?</string>
+    <string name="clear_cache_message">Apasa OK pentru a sterge datele aplicatiei Folio. Aceasta actiune te va deconecta.</string>
 
-    <string name="clear_cache_description">Clear Folio Pro\'s data. This will also log you out.</string> <!-- You MUST include the \ in your translation. For example... ***You\'re**** is spelled like that -->
+    <string name="clear_cache_description">Sterge datele aplicatiei Folio. Aceasta actiune te va deconecta.</string> <!-- You MUST include the \ in your translation. For example... ***You\'re**** is spelled like that -->
 
-    <string name="preferences_feedback">Send Feedback</string>
-    <string name="preferences_feedback_description">Have a question? Need help? Tap here to send us an email.</string>
+    <string name="preferences_feedback">Trimite parerea ta</string>
+    <string name="preferences_feedback_description">Ai o intrebare? Ai nevoie de ajutor? Apasa aici pentru a ne trimite un email.</string>
     <string name="preferences_feedback_link" translatable="true">mailto:creativetrendzappsllc@gmail.com?Subject=Folio</string>
 
-    <string name="preferences_rate">Help Others By Rating Folio Pro</string>
-    <string name="preferences_rate_hint">Rate Folio Pro on Google Play</string>
-    <string name="preferences_rate_description">Rate Folio Pro</string>
+    <string name="preferences_rate">Caracterizeaza Folio Pro</string>
+    <string name="preferences_rate_hint">Clasifica Folio Pro pe Google Play</string>
+    <string name="preferences_rate_description">Caracterizeaza Folio Pro</string>
 
 
-    <string name="preferences_auto">Enable Folio Toolbar</string>
-    <string name="preferences_auto_hint">This hides the Facebook Navigation Bar.</string>
+    <string name="preferences_auto">Activeaza bara de unelte Folio</string>
+    <string name="preferences_auto_hint">Aceasta activeaza/dezactiveaza bara de unelte Folio.</string>
 
 
 
@@ -473,7 +473,7 @@
 
     <!-- All About Credits -->
 
-    <string name="preference_category6">Credits</string>
+    <string name="preference_category6">Multumiri</string>
 
     <string name="credits_bejan">Bejan Kanga</string>
     <string name="credits_bejan_description">For launcher icons for Folio &amp; Folio Messenger. Also some navigation drawer icons. Also help with development on portions of the original app FrontPage. Tap here to visit his website.</string>
@@ -542,43 +542,43 @@
 
     <!-- All About Translations  -->
 
-    <string name="preference_category12">Translations</string>
+    <string name="preference_category12">Traduceri</string>
 
     <string name="credits_italian">Fabio Catinella</string>
-    <string name="credits_italian_description">Italiano</string>
+    <string name="credits_italian_description">Italiana</string>
 
     <string name="credits_spanish">Marco Rubio Asensio</string>
-    <string name="credits_spanish_description">EspaÃ±ol</string>
+    <string name="credits_spanish_description">Spaniola</string>
 
     <string name="credits_german">Clemens Corell</string>
-    <string name="credits_german_description">Deutsch</string>
+    <string name="credits_german_description">Germana</string>
 
     <string name="credits_brazilian">VinÃ­cius Rubens Pedrinho</string>
-    <string name="credits_brazilian_description">PortuguÃªs de Brasil</string>
+    <string name="credits_brazilian_description">Portugheza</string>
 
     <string name="credits_turk">Mehmet Ã‡alÄ±ÅŸkan</string>
-    <string name="credits_turk_description">TÃ¼rkÃ§e</string>
+    <string name="credits_turk_description">Turca</string>
 
     <string name="credits_fren">Jean Philippe</string>
-    <string name="credits_fren_description">FranÃ§ais</string>
+    <string name="credits_fren_description">Franceza</string>
 
     <string name="credits_pol">seba112</string>
-    <string name="credits_pol_description">Polski</string>
+    <string name="credits_pol_description">Poloneza</string>
 
     <string name="credits_dut">Robert Boes</string>
-    <string name="credits_dut_description">Nederlands</string>
+    <string name="credits_dut_description">Olandeza</string>
 
     <string name="credits_dut2">Dennis</string>
-    <string name="credits_dut2_description">Nederlands</string>
+    <string name="credits_dut2_description">Olandeza</string>
 
     <string name="credits_rom">Iulian Szidelo</string>
     <string name="credits_rom_description">Romana</string>
 
     <string name="credits_rus">ÐÑ€Ñ‚Ñ‘Ð¼ ÐŸÐµÑ‚Ñ€Ð¾Ð²</string>
-    <string name="credits_rus_description">Ð ÑƒÑÑÐºÐ¸Ð¹</string>
+    <string name="credits_rus_description">Rusa</string>
 
-    <string name="help_trans">Help Translate</string>
-    <string name="help_trans_hint">Tap to help translate Folio into your language.</string>
+    <string name="help_trans">Ajuta la traducere</string>
+    <string name="help_trans_hint">Apasa aici pentru a traduce Folio in alta limba.</string>
 
 
 
@@ -589,37 +589,37 @@
 
     <!-- All About Notifications -->
 
-    <string name="preference_category5">General</string>
-    <string name="activate_notifications">Facebook Notifications</string>
-    <string name="activate_messages">Message Notifications</string>
-    <string name="activate_friends">Friend Request Notifications</string>
-    <string name="notifications_service_created">Notifications Activated</string>
-    <string name="notifications_settings">Notifications</string>
-    <string name="all_notifications">View Notifications</string>
-    <string name="all_messages">View Messages</string>
-    <string name="all_requests">View Friend Requests</string>
-    <string name="notification_sound">Notification Sound</string>
-    <string name="notification_sound_description">Current: \u0020</string>
-    <string name="message_sound">Message Notification Sound</string>
-    <string name="message_sound_description">Current: \u0020</string>
-    <string name="silent">No Sound</string>
-    <string name="vibrate">Vibrate</string>
-    <string name="led_light">Notification LED</string>
-    <string name="led_color">LED light color</string>
-    <string name="led_color_description">Current LED color: %s.</string>
-    <string name="notifications_extra">Additional</string>
-    <string name="notifications_everywhere">Always Be Notified</string>
-    <string name="notifications_everywhere_description">Even when you\'re using Folio.</string>
+    <string name="preference_category5">Setari generale</string>
+    <string name="activate_notifications">Notificari Facebook</string>
+    <string name="activate_messages">Notificari de mesagerie</string>
+    <string name="activate_friends">Notifiari de cereri de prietenie</string>
+    <string name="notifications_service_created">Notificarile sunt activate</string>
+    <string name="notifications_settings">Notificari</string>
+    <string name="all_notifications">Vezi notificarile</string>
+    <string name="all_messages">Vezi mesajele</string>
+    <string name="all_requests">Vezi cererile de prietenie</string>
+    <string name="notification_sound">Sunetul notificarii Facebook</string>
+    <string name="notification_sound_description">Actual: \u0020</string>
+    <string name="message_sound">Sunetul notificarii de mesagerie</string>
+    <string name="message_sound_description">Actual: \u0020</string>
+    <string name="silent">Fara sunet</string>
+    <string name="vibrate">Vibreaza</string>
+    <string name="led_light">LED-ul de notificare</string>
+    <string name="led_color">Culoarea LED-ului</string>
+    <string name="led_color_description">Culoarea actuala: %s.</string>
+    <string name="notifications_extra">In plus</string>
+    <string name="notifications_everywhere">Fii mereu notificat</string>
+    <string name="notifications_everywhere_description">Chiar cand folosesc Folio.</string>
     <string name="get_key">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app.key</string>
     <string name="get_app_store">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app</string>
 
 
 
-    <string name="friend_request">&#160;new friend request</string>
-    <string name="friend_requests">&#160;new friend requests</string>
+    <string name="friend_request">&#160;cerere noua de prietenie</string>
+    <string name="friend_requests">&#160;cereri noi de prietenie</string>
 
-    <string name="new_notification">&#160;new notification</string>
-    <string name="new_notifications">&#160;new notifications</string>
+    <string name="new_notification">&#160;notificare noua</string>
+    <string name="new_notifications">&#160;notificari noi</string>
 
 
 
@@ -627,65 +627,65 @@
     <!-- ALL ABOUT THEMES-->
 
 
-    <string name="choose_font_facebook">Facebook Font Size</string>
-    <string name="choose_font_facebook_hint">Current font size: %s</string>
+    <string name="choose_font_facebook">Marimea literelor in Facebook</string>
+    <string name="choose_font_facebook_hint">Marimea actuala: %s</string>
 
 
-    <string name="preference_category3">Facebook Themes</string>
+    <string name="preference_category3">Temele Facebook</string>
 
-    <string name="dark_theme">Black Theme</string>
+    <string name="dark_theme">Tema neagra</string>
 
-    <string name="dark_theme_description">Turn on black theme.</string>
+    <string name="dark_theme_description">Activeaza tema neagra.</string>
 
-    <string name="red_theme">Android Studio Theme</string>
+    <string name="red_theme">Tema rosie</string>
 
-    <string name="red_theme_description">Turn on Dracula theme.</string>
+    <string name="red_theme_description">Activeaza tema rosie.</string>
 
 
 
 
     <string-array name="pref_theme_entries">
-        <item>Folio Theme</item>
-        <item>Folio Theme Dark Drawer</item>
-        <item>Pink Theme</item>
-        <item>Pink Theme Dark Drawer</item>
-        <item>Purple Theme</item>
-        <item>Purple Theme Dark Drawer</item>
-        <item>Deep Purple Theme</item>
-        <item>Deep Purple Theme Dark Drawer</item>
-        <item>Dark Theme</item>
-        <item>Orange Theme</item>
-        <item>Orange Theme Dark Drawer</item>
-        <item>Deep Orange Theme</item>
-        <item>Deep Orange Theme Dark Drawer</item>
-        <item>Falcon Theme</item>
-        <item>Falcon Theme Dark Drawer</item>
-        <item>Lime Theme</item>
-        <item>Lime Theme Dark Drawer</item>
-        <item>Green Theme</item>
-        <item>Green Theme Dark Drawer</item>
-        <item>Light Green Theme</item>
-        <item>Light Green Theme Dark Drawer</item>
-        <item>Amber Theme</item>
-        <item>Amber Theme Dark Drawer</item>
-        <item>Yellow Theme</item>
-        <item>Yellow Theme Dark Drawer</item>
-        <item>Red Theme</item>
-        <item>Red Theme Dark Drawer</item>
-        <item>Blue Theme</item>
-        <item>Blue Theme Dark Drawer</item>
-        <item>Light Blue Theme</item>
-        <item>Light Blue Theme Dark Drawer</item>
-        <item>Cyan Theme</item>
-        <item>Cyan Theme Dark Drawer</item>
-        <item>Teal Theme</item>
-        <item>Teal Theme Dark Drawer</item>
-        <item>Brown Theme</item>
-        <item>Brown Theme Dark Drawer</item>
-        <item>Grey Theme</item>
-        <item>Grey Theme Dark Drawer</item>
-        <item>Blue Grey Theme</item>
-        <item>Blue Grey Theme Dark Drawer</item>
+        <item>Tema Folio</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema Roz</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema Mov</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema Mov inchis</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema inchisa la culoare</item>
+        <item>Tema portocalie</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema portocaliu inchisa</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema Falcon</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema galben-verzui</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema verde</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema verde deschis</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema Amber</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema galben</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema rosie</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema albastra</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema albastru-deschis</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema cian</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema verde-albastru</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema maro</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema gri</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema gri-albastrui</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
 
 
 
@@ -696,61 +696,61 @@
 
 
     <string-array name="pref_theme_fb_entries">
-        <item>Facebook Theme</item>
-        <item>Black Theme</item>
-        <item>Dracula Theme</item>
-        <item>Folio Theme</item>
+        <item>Tema Facebook</item>
+        <item>Tema neagra</item>
+        <item>Tema rosie</item>
+        <item>Tema Folio</item>
     </string-array>
 
 
-    <string name="quick_bar">QuickBar</string>
-    <string name="quick_bar_hint">Show Folio QuickBar?</string>
+    <string name="quick_bar">Bara rapida</string>
+    <string name="quick_bar_hint">Arata bara rapida Folio</string>
 
-    <string name="quick_bar_on">QuickBar is now on.</string>
+    <string name="quick_bar_on">Bara rapida e vizibila in notificari.</string>
 
-    <string name="quick_bar_off">QuickBar is now off.</string>
-
-
-    <string name="no_images">Disable Images</string>
-    <string name="no_images_hint">Reduce data usage by removing images.</string>
+    <string name="quick_bar_off">Bara rapida e dezactivata.</string>
 
 
-    <string name="hide_bar">Remove Facebook Bar</string>
-    <string name="hide_bar_hint">Swipe from left edge of the screen to access Folio\'s menu.</string>
+    <string name="no_images">Ascunde imaginile</string>
+    <string name="no_images_hint">Redu traficul de date prin ascunderea imaginilor.</string>
 
 
-    <string name="choose_theme_folio">Choose App Theme</string>
-    <string name="choose_theme_facebook">Choose Facebook Theme</string>
-    <string name="choose_theme_facebook_hint">Current theme: %s</string>
-    <string name="choose_theme_folio_hint">Current theme: %s</string>
+    <string name="hide_bar">Ascunde bara Facebook</string>
+    <string name="hide_bar_hint">Gliseaza spre dreapta pentru a accesa meniul Facebook.</string>
 
 
-    <string name="hidden_bar">Enable Facebook Bar</string>
-    <string name="hidden_bar_hint">Turn off Folio\'s Toolbar First.</string>
-
-    <string name="sync_problem">Awe snap! That\'s an error. Folio couldn\'t get your notifications. Please close and reopen Folio.</string>
-
-    <string name="you_have_one_message">You have 1 new message</string>
-    <string name="you_have_n_messages">You have %d new messages</string>
-
-    <string name="file_logger">Save logs to a file</string>
-    <string name="file_logger_description">Save Notification Service logs to an external memory. It needs a storage permission.</string>
-    <string name="file_logger_needs_permission">No access to external storage. Log cannot be saved.</string>
+    <string name="choose_theme_folio">Alege tema aplicatiei</string>
+    <string name="choose_theme_facebook">Alege tema Facebook</string>
+    <string name="choose_theme_facebook_hint">Tema curenta: %s</string>
+    <string name="choose_theme_folio_hint">Tema curenta: %s</string>
 
 
+    <string name="hidden_bar">Activeaza bara Facebook</string>
+    <string name="hidden_bar_hint">Dezactiveaza intai bara Folio.</string>
 
-    <string name="interval_pref">Badge &amp; Sync Service</string>
-    <string name="interval_pref_description">Notifications &amp; badges will be checked every %s.</string>
+    <string name="sync_problem">A aparut o eroare. Nu se pot accesa notificarile tale. Redeschide aplicatia.</string>
+
+    <string name="you_have_one_message">Ai un mesaj nou</string>
+    <string name="you_have_n_messages">Ai %d mesaje noi</string>
+
+    <string name="file_logger">Salveaza activitatea intr-un fisier</string>
+    <string name="file_logger_description">Salveaza activitatea serviciului de notificare. Aceasta actiune are nevoie de permisiuni speciale.</string>
+    <string name="file_logger_needs_permission">Accesul de scriere e blocat. Activitatea nu poate fi salvata.</string>
+
+
+
+    <string name="interval_pref">Etichete &amp; Serviciul de sincronizare</string>
+    <string name="interval_pref_description">Notificarile vor fi verificate la fiecare %s.</string>
 
 
     <string-array name="update_interval">
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>3 hours</item>
-        <item>6 hours</item>
+        <item>1 minut</item>
+        <item>5 minute</item>
+        <item>15 minute</item>
+        <item>30 minute</item>
+        <item>1 ora</item>
+        <item>3 ore</item>
+        <item>6 ore</item>
     </string-array>
 
     <string-array name="update_interval_values">
@@ -778,17 +778,17 @@
     <string name="pro_user12">e61317caba3a8259</string>
     <string name="pro_user13">e9a6b0a417036de4</string>
 
-    <string name="not_valid_title">Not Valid</string>
-    <string name="not_valid_message">This version of Folio is not from the Play Store and will not function.</string>
+    <string name="not_valid_title">Nu e valid</string>
+    <string name="not_valid_message">Aceasta versiune de Folio nu e luata de pe Google Play si nu va functiona.</string>
     <string name="get_from_play">Google Play</string>
 
-    <string name="people_you">People You May Know</string>
-    <string name="people_you_hint">Hide people you may know. (BETA)</string>
+    <string name="people_you">Persoane posibil cunoascute</string>
+    <string name="people_you_hint">Ascunde persoanele posiil cunoscute. (In testare)</string>
 
-    <string name="download_manager_disabled">DownloadManager is disabled. Please enable it.</string>
-    <string name="cannot_access_storage">No access to external storage</string>
-    <string name="file_cannot_be_saved">A file cannot be saved</string>
-    <string name="camera_exception">Problems with a camera</string>
+    <string name="download_manager_disabled">Apliactia de descarcare e dezactivata. Activeaz-o.</string>
+    <string name="cannot_access_storage">Acces blocat la scriere</string>
+    <string name="file_cannot_be_saved">Fisierul nu poat fi salvat</string>
+    <string name="camera_exception">Probleme cu camera foto</string>
 
     <!-- Folio Favorites -->
 
