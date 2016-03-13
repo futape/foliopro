@@ -801,37 +801,37 @@
     <string name="remember_title">Pozitia fluxului de informatii (In testare)</string>
     <string name="remember_hint">Tine minte pozitia fluxului de informatii.</string>
 
-    <string name="faq">FAQ\'s</string>
+    <string name="faq">Intrebari frecvente</string>
 
-    <string name="notify_log">Notification Log</string>
-    <string name="notify_log_hint">Save diagnostic notifications log? This doesn\'t allow Folio to collect any personal information.</string>
+    <string name="notify_log">Activitatea serviciului de notificare</string>
+    <string name="notify_log_hint">Salveaza activitatea serviciului de notificare? Aceasta actiune nu va colecta informatii personale.</string>
 
-    <string name="btn_chioce">Pick(%d)</string>
+    <string name="btn_chioce">Ales(%d)</string>
 
-    <string name="offline_folio">Enable Offline Mode</string>
-    <string name="offline_folio_hint">Save your browsing data?</string>
+    <string name="offline_folio">Activeaza modul de lucru "Deconectat"</string>
+    <string name="offline_folio_hint">Salvez activitatea ta de navigare?</string>
 
-    <string name="folio_lock">Enable Folio Lock</string>
-    <string name="folio_lock_hint">Use your fingerprint or a passcode to lock/unlock Folio?</string>
+    <string name="folio_lock">Activeaza modul de securitate sporita</string>
+    <string name="folio_lock_hint">Foloseste amprenta (pe dispozitivele care suporta) sau un cod pentru bloacr/deblocare Folio?</string>
 
-    <string name="folio_message_bubble">Message Bubbles</string>
-    <string name="folio_message_bubble_hint">Turn on Message Bubbles?</string>
+    <string name="folio_message_bubble">Bulele de mesagerie</string>
+    <string name="folio_message_bubble_hint">Activezi bulele de mesagerie?</string>
 
-    <string name="folio_video">Upload video</string>
-    <string name="folio_checkins">Check-in</string>
-    <string name="folio_tags">Tag a friend</string>
-    <string name="folio_images">Upload image from gallery</string>
+    <string name="folio_video">Incarca un fisier video</string>
+    <string name="folio_checkins">Localizeaza-te</string>
+    <string name="folio_tags">Marcheaza un prieten</string>
+    <string name="folio_images">Incarca o poza din galeria personala</string>
 
     <string name="not_found_offline" formatted="false"><![CDATA[<div style=\"position: absolute;top: 50%;left: 50%;transform: translateX(-50%) translateY(-50%);\"><div><h1>Unfortunately this page was not found in offline mode</h1></div></div>]]></string>
-    <string name="loading_offline_database">Loading page offline</string>
-    <string name="offline_database_empty">No offline pages found</string>
+    <string name="loading_offline_database">Incarc pagina in mod de lucru "deconectat"</string>
+    <string name="offline_database_empty">Nu exista nici o pagina specifica modului "deconectat".</string>
 
-    <string name="unlock_text">Please Enter Lock Code</string>
-    <string name="lock_abort">Cancel</string>
-    <string name="lock_pin">lock code</string>
-    <string name="lock_text">Secure Folio with a lock code</string>
-    <string name="lock_confirm">confirm lock code</string>
-    <string name="lock_wrong">Lock code incorrect</string>
-    <string name="lock_empty">Lock code cannot be blank</string>
+    <string name="unlock_text">Introdu codul de blocare</string>
+    <string name="lock_abort">Renunta</string>
+    <string name="lock_pin">Codul de blocare</string>
+    <string name="lock_text">Protejeaza Folio cu un cod de securitate</string>
+    <string name="lock_confirm">Confirma codul de securitate</string>
+    <string name="lock_wrong">Codul de securitate e incorect</string>
+    <string name="lock_empty">Codul de securitate nu poate fi gol</string>
 </resources>
 
