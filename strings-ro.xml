@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!--Copyright (C) 2014-2015 Jorell Rutledge/Creative Trends.
+    This file is originally part of Folio for Facebook.
+    Copyright notice must remain here if you're using any part of this code.-->
+
+    <!-- Basic Strings -->
+    <string name="app_name">Folio Pro</string>
+    <!-- Replaces Facebook WebView Title -->
+    <string name="app_name_toolbar">Folio Pro</string>
+    <string name="app_name_about">Folio Pro pentru Facebook</string>
+    <string name="action_settings">Setari</string>
+    <string name="end">Deconectare</string>
+    <!-- Close Drawer -->
+    <string name="closeDrawer">Ascunde meniul de scurtaturi</string>
+    <!-- Open Drawer -->
+    <string name="openDrawer">Arata meniul de scurtaturi</string>
+
+    <!-- Close The App -->
+    <string name="exit">Iesire</string>
+    <!-- Save Image On Long Press -->
+    <string name="customize_folio">Personalizeaza Folio Pro</string>
+    <string name="customize_folio_hint">Schimba aspectul si aranjarea.</string>
+    <string name="tap_to_set">Apasa aici pentru a aplica modificarile</string>
+
+    <string name="status_updated">Stare actualizata.</string>
+
+
+    <!-- FAB LABELS -->
+    <string name="update_status">Posteaza o stare</string>
+    <string name="update_photo">Adauga fotografii</string>
+    <string name="update_share">Imparte cu cineva acum</string>
+
+    <string name="license_success">Temele sunt activate</string>
+    <string name="license_failed">Temele sunt dezactivate</string>
+
+    <string name="show_fab">Arata butonul de scurtaturi</string>
+    <string name="show_fab_hint">Arata scurtaturile rapide pentru a posta stari pe Facebook prin Folio Pro.</string>
+
+    <string name="loading_video">Se incarca.</string>
+
+    <string name="hide_sponsored">Ascunde postarile sponsorizate</string>
+    <string name="hide_sponsored_description">Ascunde postarile publicitare Facebook &amp; pe cele sponsorizate.</string>
+
+
+
+
+
+
+
+    <!-- Folio Drawer -->
+    <string name="quickaccess">Acces rapid</string>
+    <string name="newsfeed">Recente</string>
+    <string name="trending">Tendinte</string>
+    <string name="messages">Mesaje</string>
+    <string name="topnews">Stiri de top</string>
+    <string name="fbmenu">Meniul Facebook</string>
+
+    <string name="faved">Favorite</string>
+    <string name="friends">Prieteni</string>
+    <string name="groups">Grupuri</string>
+    <string name="pages">Pagini</string>
+    <string name="photos">Poze</string>
+
+    <string name="reminders">Alarme</string>
+    <string name="events">Evenimente</string>
+    <string name="onthisday">S-a intamplat azi</string>
+    <string name="saved">Salvate</string>
+
+    <string name="prefs">Preferinte</string>
+    <string name="settings">Setari</string>
+    <string name="helpfeed">Parerea ta</string>
+    <string name="bugs">Raporteaza o problema</string>
+
+    <!-- Twitter Drawer -->
+    <string name="discover">Descopera</string>
+    <string name="connect">Conectare</string>
+    <string name="twitter_search">Cautare</string>
+    <string name="twitter_home">Acasa</string>
+    <string name="twitter_me">Eu</string>
+    <string name="switch_to_folio">Treci pe Folio Pro</string>
+    <string name="switch_to_twitter">Treci pe Twitter</string>
+    <string name="switch_to_gplus">Treci pe Google+</string>
+    <string name="switch_to_gram">Treci pe Instagram</string>
+    <string name="switch_to_tum">Treci pe Tumblr</string>
+
+    <!-- Add ons -->
+    <string name="addons">Module sociale</string>
+    <string name="enable_twitter">Ascunde Twitter</string>
+    <string name="enable_google">Ascunde Google+</string>
+    <string name="enable_instagram">Ascunde Instagram</string>
+    <string name="enable_tumblr">Ascunde Tumblr</string>
+
+    <!-- Removals -->
+    <string name="navigation_pref">Elementele meniului de scurtaturi</string>
+    <string name="navigation_pref_hint">Ascunde elementele meniului de scurtaturi pe care nu le folosesti.</string>
+    <string name="recent_nav">Ascunde "Recente"</string>
+    <string name="top_nav">Ascunde "Stiri de top"</string>
+    <string name="facebook_nav">Ascunde "Mesaje"</string>
+    <string name="trending_nav">Ascunde "Tendinte"</string>
+    <string name="friends_nav">Ascudne "Prieteni"</string>
+    <string name="groups_nav">Ascudne "Grupuri"</string>
+    <string name="pages_nav">Ascunde "Pagini"</string>
+    <string name="photos_nav">Ascudne "Poze"</string>
+    <string name="events_nav">Ascunde "Evenimente"</string>
+    <string name="onday_nav">Ascunde "S-a intamplat azi"/string>
+    <string name="saved_nav">Ascunde "Salvate"</string>
+
+    <!-- News Feed -->
+    <string name="news_feed_preferences">Setarile fluxului de informatii</string>
+    <string name="top_always">Stiri de top</string>
+    <string name="top_always_hint">Stirile de top se incarca primele la pornire.</string>
+
+    <!-- Fonts -->
+    <string name="font_preference">Setari pentru tipul de scris folosit</string>
+    <string name="larger_font_hint">Creste gradul de vizibilitate al scrisului prin marirea literelor. Alege doar o marime de litera pentru a functiona.</string>
+    <string name="font_set">Apasa pentru a aplica setarile de litere.</string>
+    <string name="default_font">Marime implcita</string>
+    <string name="medium_font">Marime medie</string>
+    <string name="large_font">Marime mare</string>
+    <string name="xl_font">Marime foarte mare</string>
+    <string name="xxl_font">Marime gigant</string>
+
+    <string-array name="font_choice">
+        <item>Implicita</item>
+        <item>Litere mici</item>
+        <item>Litere medii</item>
+        <item>Litere mari</item>
+        <item>Litere foarte</item>
+        <item>Litere gigant</item>
+
+    </string-array>
+
+
+
+
+    <!-- Overflow Menu Folio -->
+    <string name="top">Sari la inceput</string>
+    <string name="fb_settings">Setari Facebook</string>
+    <string name="fb_chat">Prieteni activi</string>
+    <string name="fb_recent">Recente</string>
+    <string name="refresh">Actualizare</string>
+    <string name="notifications">Notificari</string>
+    <string name="notifications_about_hint">Setari pentru notificari.</string>
+    <string name="search">Cauta pe Facebook</string>
+
+
+
+
+    <!-- Save Image On Long Press  & Sharing-->
+    <string name="saveFolio">Salveaza poza</string>
+    <string name="txt_save_image_success">Poza se descarca.</string>
+    <string name="txt_save_image_failed">Nu pot salva poza</string>
+    <string name="share_action">Imparte cu cineva pagina curenta</string>
+    <string name="share_action_subject">Pagina Facebook</string>
+    <!-- Save Image On Long Press -->
+
+    <string name="facebook_app_id">749196541804006</string>
+    <string name="get_started">Conecteaza-te</string>
+    <string name="send_feedback">Parerea ta despre Folio Pro</string>
+    <string name="ok">OK</string>
+    <string name="applying_changes">Se sterg datele temporare. Reporneste Folio Pro.</string>
+
+
+    <string name="cancel">Renunta</string>
+
+    <!-- Don't Know Why I'm Giving A Choice Here But...-->
+
+    <string name="site_preference">Alege modul de lucru Facebook (in testare)</string>
+    <string name="site_preference_hint">Modul curent e: %s.</string>
+
+
+    <string name="default_mode">Facebook Mobil</string>
+    <string name="basic_mode">Facebook Primar</string>
+    <string name="desktop_mode">Facebook Extins</string>
+
+
+
+
+    <!-- DO NOT TRANSLATE-->
+    <string name="about_text"><![CDATA[
+        
+    
+    <b>Tray Preferences</b><br><br>
+    Copyright 2015 grandcentrix GmbH<br><br>
+
+   	Licensed under the Apache License, Version 2.0 (the "License");
+   	you may not use this file except in compliance with the License.<br>
+   	You may obtain a copy of the License at:<br><br>
+
+   	http://www.apache.org/licenses/LICENSE-2.0<br><br>
+
+   	Unless required by applicable law or agreed to in writing, software
+  	distributed under the License is distributed on an "AS IS" BASIS,
+   	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<br>
+   	See the License for the specific language governing permissions and
+   	limitations under the License.<br><br><br>
+   	
+   	
+   	<b>Material Preferences</b><br><br>
+   	
+   	The MIT License (MIT)<br><br>
+
+	Copyright (&#169;) 2015 Jens Driller<br><br>
+
+	Permission is hereby granted, free of charge, to any person obtaining a copy
+	of this software and associated documentation files (the "Software"), to deal
+	in the Software without restriction, including without limitation the rights
+	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	copies of the Software, and to permit persons to whom the Software is
+	furnished to do so, subject to the following conditions:<br><br>
+
+	The above copyright notice and this permission notice shall be included in all
+	copies or substantial portions of the Software.<br><br>
+
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+	SOFTWARE.<br><br><br>
+
+	<b>Material Preference Compat</b><br><br>
+
+	The MIT License (MIT)<br><br>
+
+	Copyright (&#169;) 2015 Fung Jichun<br><br>
+
+	Permission is hereby granted, free of charge, to any person obtaining a copy
+	of this software and associated documentation files (the "Software"), to deal
+	in the Software without restriction, including without limitation the rights
+	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	copies of the Software, and to permit persons to whom the Software is
+	furnished to do so, subject to the following conditions:<br><br>
+
+	The above copyright notice and this permission notice shall be included in all
+	copies or substantial portions of the Software.<br><br>
+
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+	SOFTWARE.<br><br>
+
+
+	<b>Facebook SDK</b><br><br>
+
+	Copyright (&#169;) 2014-present, Facebook, Inc. All rights reserved.
+	<br><br>
+	You are hereby granted a non-exclusive, worldwide, royalty-free license to use,
+	copy, modify, and distribute this software in source code or binary form for use
+	in connection with the web services and APIs provided by Facebook.
+	<br><br>
+	As with any software that integrates with the Facebook platform, your use of
+	this software is subject to the Facebook Developer Principles and Policies
+	[http://developers.facebook.com/policy/]. This copyright notice shall be
+	included in all copies or substantial portions of the software.
+	<br><br>
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+	FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+	COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+	IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+	CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+	<br><br>
+
+	<b>Picasso</b><br><br>
+	Copyright 2013 Square, Inc.<br><br>
+
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at<br><br>
+
+	http://www.apache.org/licenses/LICENSE-2.0<br><br>
+
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.<br><br>
+	
+
+    	
+	<b>Clans Floating Action Button</b><br><br>
+	Copyright 2015 Dmytro Tarianyk
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+	
+	
+	<b>ActionItemBadge</b><br><br>
+	Copyright 2015 Mike Penz
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+	
+	
+	<b>Android-Iconics</b><br><br>
+	Copyright 2015 Mike Penz
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+	
+	
+	<b>AdvancedWebView</b><br><br>
+	Copyright 2015 delight.im <info@delight.im>
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+	
+	
+	<b>AppRater</b><br><br>
+	Copyright 2013 Andrew Jackson
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+	
+	<b>FloatingView</b><br><br>
+	Copyright (&#169;) 2013 Luke Klinker
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+    ]]></string>
+
+    <string name="about_header">Open source licenses\nNotices for files</string>
+
+
+
+    <string name="copyright">\u00A9 2015 Creative Trends Apps LLC.</string>
+    <string name="allrights">All Rights Reserved.</string>
+
+    <string name="about_version">http://www.creativetrendsapps.com</string>
+    <string name="about_image">Image Credit: Klyph for Facebook</string>
+
+
+    <!-- Random Strings Part 1 -->
+
+    <string name="fb_offline">Eroare</string>
+    <string name="cancelled">Actiune anulata</string>
+    <string name="permission_not_granted">Nu se pot executa actiunile selectate din lipsa de permisiuni.</string>
+    <string name="image_chooser">Alege imagini</string>
+    <string name="loading_link">Deschidere cu Folio</string>
+    <string name="author">Cerat de Jorell Rutledge</string>
+    <string name="title_activity_settings">Setari</string>
+    <string name="title_activity_about">Despre Folio</string>
+    <string name="title_activity_about_hint">Afla mai multe despre Folio Pro.</string>
+
+    <string name="email_author">Trimite parerea ta</string>
+    <string name="choose_email_client">Alege aplicatia de posta electronica</string>
+    <string name="no_network">Esti deconectat.</string> <!-- You MUST include the \ in your translation. For example... ***You'\re**** is spelled like that -->
+
+    <string name="share_link">Imparte cu cineva acest element</string>
+    <string name="long_clicks">Apasari lungi</string>
+    <string name="long_clicks_description">Salveaza o poza prin apasari lungi.</string>
+
+
+    <!-- Random Strings Part 2 -->
+    <string name="preference_category4">Temele Folio Pro</string>
+
+
+
+    <string name="donate_jorell">Ajuta programatorul si activeaza noi functii</string>
+    <string name="donate_jorell_description">Ajuta-ma sa actualizez mai des problemele.</string>
+    <string name="donate_jorell_link" translatable="true">http://paypal.me/creativetrends</string>
+    <string name="donate_jorell_about">Cumpara-mi o cafea</string>
+
+
+
+    <!-- Bottom Section of Credits-->
+    <string name="hardware_acceleration">Accelerare grafica hard</string>
+    <string name="credits_settings">Multumiri</string>
+    <string name="preference_category7">Setari</string>
+    <string name="preference_about_category">Despre</string>
+    <string name="preference_set_category">Totul e gata</string>
+    <string name="preference_donate_category">Cumpara Folio Pro</string>
+    <string name="preference_rest_category">Adu Folio la setarile implicite</string>
+    <string name="preference_category15">Setarile de aspect pentru  aplicatie</string>
+    <string name="preference_facebook_layouts">Setarile de aspect pentru Facebook</string>
+
+    <string name="fixed_nav">Bara fixa Facebook</string>
+    <string name="fixed_nav_description">Bara fixa Facebook va ramane mereu deasupra.</string>
+
+    <string name="credits_licenses">Apasa aici pentru a afla despre licentele folosite de Folio Pro.</string>
+    <string name="credits_licenses_description">Licente surse libere</string>
+    <string name="clear_cache">Sterge datele aplicatiei</string>
+
+    <string name="clear_cache_title">Esti sigur?</string>
+    <string name="clear_cache_message">Apasa OK pentru a sterge datele aplicatiei Folio. Aceasta actiune te va deconecta.</string>
+
+    <string name="clear_cache_description">Sterge datele aplicatiei Folio. Aceasta actiune te va deconecta.</string> <!-- You MUST include the \ in your translation. For example... ***You\'re**** is spelled like that -->
+
+    <string name="preferences_feedback">Trimite parerea ta</string>
+    <string name="preferences_feedback_description">Ai o intrebare? Ai nevoie de ajutor? Apasa aici pentru a ne trimite un email.</string>
+    <string name="preferences_feedback_link" translatable="true">mailto:creativetrendzappsllc@gmail.com?Subject=Folio</string>
+
+    <string name="preferences_rate">Caracterizeaza Folio Pro</string>
+    <string name="preferences_rate_hint">Clasifica Folio Pro pe Google Play</string>
+    <string name="preferences_rate_description">Caracterizeaza Folio Pro</string>
+
+
+    <string name="preferences_auto">Activeaza bara de unelte Folio</string>
+    <string name="preferences_auto_hint">Aceasta activeaza/dezactiveaza bara de unelte Folio.</string>
+
+
+
+
+
+    <!-- All About Credits -->
+
+    <string name="preference_category6">Multumiri</string>
+
+    <string name="credits_bejan">Bejan Kanga</string>
+    <string name="credits_bejan_description">For launcher icons for Folio &amp; Folio Messenger. Also some navigation drawer icons. Also help with development on portions of the original app FrontPage. Tap here to visit his website.</string>
+    <string name="credits_bejan_link" translatable="true">http://bejank.com</string>
+
+    <string name="credits_nam">Nam Nghiem</string>
+    <string name="credits_nam_description">For help with cover photos. Check out his Facebook client.</string>
+    <string name="credits_nam_link" translatable="true">https://play.google.com/store/apps/details?id=com.nam.fbwrapper&amp;hl=en</string>
+
+    <string name="credits_fadev">Florent Anders</string>
+    <string name="credits_fadev_description">For help with Folio Lock. Check out his Facebook client.</string>
+    <string name="credits_fadev_link" translatable="true">https://play.google.com/store/apps/details?id=com.fa.touch.app&amp;hl=en</string>
+
+    <string name="credits_dan">Daniel Velazco/nJames Vento</string>
+    <string name="credits_dan_description">For use of the full screen video playback webview code found in Tinfoil. Checkout Tinfoil for Facebook.</string>
+    <string name="credits_dan_link" translatable="true">https://play.google.com/store/apps/details?id=com.danvelazco.fbwrapper&amp;hl=en</string>
+
+
+    <string name="credits_beta">Facebook Group</string>
+    <string name="credits_beta_description">Join Creative Trends Apps on Facebook.</string>
+    <string name="credits_beta_link" translatable="true">https://www.facebook.com/groups/creativtrendz/</string>
+
+
+    <string name="credits_google_plus">Google+</string>
+    <string name="credits_google_plus_description">Join Creative Trends on Google+</string>
+    <string name="credits_google_plus_link" translatable="true">https://plus.google.com/communities/116238843585710616103</string>
+
+
+
+
+    <string name="credits_janae">Janae</string>
+    <string name="credits_janae_description">For sharing an interest in technology and being patient while daddy worked.</string>
+
+
+    <string name="credits_tykeshia">Tykeshia</string>
+    <string name="credits_tykeshia_description">For being supportive and encouraging throughout the past years. Thanks for letting me borrow the laptop.</string>
+
+
+    <string name="credits_facebook">Facebook Inc.</string>
+    <string name="credits_facebook_description">For their new graph api. Also for their mobile site which is used in Folio. </string>
+    <string name="credits_facebook_link" translatable="true">http://m.facebook.com</string>
+
+    <string name="credits_google">Google Inc.</string>
+    <string name="credits_google_description">For AppCompat v7, also for open sourcing your Material Design icons.</string>
+    <string name="credits_google_link" translatable="true">https://developer.android.com/tools/support-library/features.html</string>
+
+
+    <string name="preference_category10">Open Source Software Used</string>
+    <string name="preference_category8">Open Source Licenses</string>
+
+    <string name="credits_tray">Tray Preferences</string>
+    <string name="credits_tray_description">Tap here to fork the project.</string>
+    <string name="credits_tray_link" translatable="true">https://github.com/grandcentrix/tray</string>
+
+
+    <string name="credits_material">Folio for Facebook</string>
+    <string name="credits_material_description">Tap here to fork the project.</string>
+    <string name="credits_material_link" translatable="true">https://github.com/creativetrendsapps/Folioforfacebook</string>
+
+
+    <string name="credits_preferences">Material Preference Compat</string>
+    <string name="credits_preferences_description">Tap here to fork the project.</string>
+    <string name="credits_preferences_link" translatable="true">https://github.com/fython/MaterialPreferenceCompat</string>
+
+
+
+    <!-- All About Translations  -->
+
+    <string name="preference_category12">Traduceri</string>
+
+    <string name="credits_italian">Fabio Catinella</string>
+    <string name="credits_italian_description">Italiana</string>
+
+    <string name="credits_spanish">Marco Rubio Asensio</string>
+    <string name="credits_spanish_description">Spaniola</string>
+
+    <string name="credits_german">Clemens Corell</string>
+    <string name="credits_german_description">Germana</string>
+
+    <string name="credits_brazilian">VinÃ­cius Rubens Pedrinho</string>
+    <string name="credits_brazilian_description">Portugheza</string>
+
+    <string name="credits_turk">Mehmet Ã‡alÄ±ÅŸkan</string>
+    <string name="credits_turk_description">Turca</string>
+
+    <string name="credits_fren">Jean Philippe</string>
+    <string name="credits_fren_description">Franceza</string>
+
+    <string name="credits_pol">seba112</string>
+    <string name="credits_pol_description">Poloneza</string>
+
+    <string name="credits_dut">Robert Boes</string>
+    <string name="credits_dut_description">Olandeza</string>
+
+    <string name="credits_dut2">Dennis</string>
+    <string name="credits_dut2_description">Olandeza</string>
+
+    <string name="credits_rom">Iulian Szidelo</string>
+    <string name="credits_rom_description">Romana</string>
+
+    <string name="credits_rus">ÐÑ€Ñ‚Ñ‘Ð¼ ÐŸÐµÑ‚Ñ€Ð¾Ð²</string>
+    <string name="credits_rus_description">Rusa</string>
+
+    <string name="help_trans">Ajuta la traducere</string>
+    <string name="help_trans_hint">Apasa aici pentru a traduce Folio in alta limba.</string>
+
+
+
+
+
+
+
+
+    <!-- All About Notifications -->
+
+    <string name="preference_category5">Setari generale</string>
+    <string name="activate_notifications">Notificari Facebook</string>
+    <string name="activate_messages">Notificari de mesagerie</string>
+    <string name="activate_friends">Notifiari de cereri de prietenie</string>
+    <string name="notifications_service_created">Notificarile sunt activate</string>
+    <string name="notifications_settings">Notificari</string>
+    <string name="all_notifications">Vezi notificarile</string>
+    <string name="all_messages">Vezi mesajele</string>
+    <string name="all_requests">Vezi cererile de prietenie</string>
+    <string name="notification_sound">Sunetul notificarii Facebook</string>
+    <string name="notification_sound_description">Actual: \u0020</string>
+    <string name="message_sound">Sunetul notificarii de mesagerie</string>
+    <string name="message_sound_description">Actual: \u0020</string>
+    <string name="silent">Fara sunet</string>
+    <string name="vibrate">Vibreaza</string>
+    <string name="led_light">LED-ul de notificare</string>
+    <string name="led_color">Culoarea LED-ului</string>
+    <string name="led_color_description">Culoarea actuala: %s.</string>
+    <string name="notifications_extra">In plus</string>
+    <string name="notifications_everywhere">Fii mereu notificat</string>
+    <string name="notifications_everywhere_description">Chiar cand folosesc Folio.</string>
+    <string name="get_key">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app.key</string>
+    <string name="get_app_store">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app</string>
+
+
+
+    <string name="friend_request">&#160;cerere noua de prietenie</string>
+    <string name="friend_requests">&#160;cereri noi de prietenie</string>
+
+    <string name="new_notification">&#160;notificare noua</string>
+    <string name="new_notifications">&#160;notificari noi</string>
+
+
+
+
+    <!-- ALL ABOUT THEMES-->
+
+
+    <string name="choose_font_facebook">Marimea literelor in Facebook</string>
+    <string name="choose_font_facebook_hint">Marimea actuala: %s</string>
+
+
+    <string name="preference_category3">Temele Facebook</string>
+
+    <string name="dark_theme">Tema neagra</string>
+
+    <string name="dark_theme_description">Activeaza tema neagra.</string>
+
+    <string name="red_theme">Tema rosie</string>
+
+    <string name="red_theme_description">Activeaza tema rosie.</string>
+
+
+
+
+    <string-array name="pref_theme_entries">
+        <item>Tema Folio</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema Roz</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema Mov</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema Mov inchis</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema inchisa la culoare</item>
+        <item>Tema portocalie</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema portocaliu inchisa</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema Falcon</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema galben-verzui</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema verde</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema verde deschis</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema Amber</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema galben</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema rosie</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema albastra</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema albastru-deschis</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema cian</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema verde-albastru</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema maro</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema gri</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+        <item>Tema gri-albastrui</item>
+        <item>Meniul cu scurataturi inchis la culoare</item>
+
+
+
+
+    </string-array>
+
+
+
+
+    <string-array name="pref_theme_fb_entries">
+        <item>Tema Facebook</item>
+        <item>Tema neagra</item>
+        <item>Tema rosie</item>
+        <item>Tema Folio</item>
+    </string-array>
+
+
+    <string name="quick_bar">Bara rapida</string>
+    <string name="quick_bar_hint">Arata bara rapida Folio</string>
+
+    <string name="quick_bar_on">Bara rapida e vizibila in notificari.</string>
+
+    <string name="quick_bar_off">Bara rapida e dezactivata.</string>
+
+
+    <string name="no_images">Ascunde imaginile</string>
+    <string name="no_images_hint">Redu traficul de date prin ascunderea imaginilor.</string>
+
+
+    <string name="hide_bar">Ascunde bara Facebook</string>
+    <string name="hide_bar_hint">Gliseaza spre dreapta pentru a accesa meniul Facebook.</string>
+
+
+    <string name="choose_theme_folio">Alege tema aplicatiei</string>
+    <string name="choose_theme_facebook">Alege tema Facebook</string>
+    <string name="choose_theme_facebook_hint">Tema curenta: %s</string>
+    <string name="choose_theme_folio_hint">Tema curenta: %s</string>
+
+
+    <string name="hidden_bar">Activeaza bara Facebook</string>
+    <string name="hidden_bar_hint">Dezactiveaza intai bara Folio.</string>
+
+    <string name="sync_problem">A aparut o eroare. Nu se pot accesa notificarile tale. Redeschide aplicatia.</string>
+
+    <string name="you_have_one_message">Ai un mesaj nou</string>
+    <string name="you_have_n_messages">Ai %d mesaje noi</string>
+
+    <string name="file_logger">Salveaza activitatea intr-un fisier</string>
+    <string name="file_logger_description">Salveaza activitatea serviciului de notificare. Aceasta actiune are nevoie de permisiuni speciale.</string>
+    <string name="file_logger_needs_permission">Accesul de scriere e blocat. Activitatea nu poate fi salvata.</string>
+
+
+
+    <string name="interval_pref">Etichete &amp; Serviciul de sincronizare</string>
+    <string name="interval_pref_description">Notificarile vor fi verificate la fiecare %s.</string>
+
+
+    <string-array name="update_interval">
+        <item>1 minut</item>
+        <item>5 minute</item>
+        <item>15 minute</item>
+        <item>30 minute</item>
+        <item>1 ora</item>
+        <item>3 ore</item>
+        <item>6 ore</item>
+    </string-array>
+
+    <string-array name="update_interval_values">
+        <item>60000</item>
+        <item>300000</item>
+        <item>900000</item>
+        <item>1800000</item>
+        <item>3600000</item>
+        <item>10800000</item>
+        <item>21600000</item>
+    </string-array>
+
+
+    <string name="pro_user1">97211866bf42497</string>
+    <string name="pro_user2">2c35cb58ac254dc9</string>
+    <string name="pro_user3">f4025684dd48e3e4</string>
+    <string name="pro_user4">e79d95f674464bb5</string>
+    <string name="pro_user5">3413eb7ff69ac193</string>
+    <string name="pro_user6">d5d0fdb1de928058</string>
+    <string name="pro_user7">7166dc0614ceab13</string>
+    <string name="pro_user8">fd82839ef512e3f4</string>
+    <string name="pro_user9">e9a6b0a417036de4</string>
+    <string name="pro_user10">d622c9dcc1fa6b3aa</string>
+    <string name="pro_user11">cf2487c5ff09bf67</string>
+    <string name="pro_user12">e61317caba3a8259</string>
+    <string name="pro_user13">e9a6b0a417036de4</string>
+
+    <string name="not_valid_title">Nu e valid</string>
+    <string name="not_valid_message">Aceasta versiune de Folio nu e luata de pe Google Play si nu va functiona.</string>
+    <string name="get_from_play">Google Play</string>
+
+    <string name="people_you">Persoane posibil cunoascute</string>
+    <string name="people_you_hint">Ascunde persoanele posiil cunoscute. (In testare)</string>
+
+    <string name="download_manager_disabled">Apliactia de descarcare e dezactivata. Activeaz-o.</string>
+    <string name="cannot_access_storage">Acces blocat la scriere</string>
+    <string name="file_cannot_be_saved">Fisierul nu poat fi salvat</string>
+    <string name="camera_exception">Probleme cu camera foto</string>
+
+    <!-- Folio Favorites -->
+
+    <string name="open_link_title">Taburile personalizate Chrome</string>
+    <string name="open_link_hint">Deschide legaturile externe in Chrome?</string>
+
+    <string name="addPage">Adauga la Favorite</string>
+    <string name="removePage">Sterge din Favorite/string>
+
+    <string name="remember_title">Pozitia fluxului de informatii (In testare)</string>
+    <string name="remember_hint">Tine minte pozitia fluxului de informatii.</string>
+
+    <string name="faq">Intrebari frecvente</string>
+
+    <string name="notify_log">Activitatea serviciului de notificare</string>
+    <string name="notify_log_hint">Salveaza activitatea serviciului de notificare? Aceasta actiune nu va colecta informatii personale.</string>
+
+    <string name="btn_chioce">Ales(%d)</string>
+
+    <string name="offline_folio">Activeaza modul de lucru "Deconectat"</string>
+    <string name="offline_folio_hint">Salvez activitatea ta de navigare?</string>
+
+    <string name="folio_lock">Activeaza modul de securitate sporita</string>
+    <string name="folio_lock_hint">Foloseste amprenta (pe dispozitivele care suporta) sau un cod pentru bloacr/deblocare Folio?</string>
+
+    <string name="folio_message_bubble">Bulele de mesagerie</string>
+    <string name="folio_message_bubble_hint">Activezi bulele de mesagerie?</string>
+
+    <string name="folio_video">Incarca un fisier video</string>
+    <string name="folio_checkins">Localizeaza-te</string>
+    <string name="folio_tags">Marcheaza un prieten</string>
+    <string name="folio_images">Incarca o poza din galeria personala</string>
+
+    <string name="not_found_offline" formatted="false"><![CDATA[<div style=\"position: absolute;top: 50%;left: 50%;transform: translateX(-50%) translateY(-50%);\"><div><h1>Unfortunately this page was not found in offline mode</h1></div></div>]]></string>
+    <string name="loading_offline_database">Incarc pagina in mod de lucru "deconectat"</string>
+    <string name="offline_database_empty">Nu exista nici o pagina specifica modului "deconectat".</string>
+
+    <string name="unlock_text">Introdu codul de blocare</string>
+    <string name="lock_abort">Renunta</string>
+    <string name="lock_pin">Codul de blocare</string>
+    <string name="lock_text">Protejeaza Folio cu un cod de securitate</string>
+    <string name="lock_confirm">Confirma codul de securitate</string>
+    <string name="lock_wrong">Codul de securitate e incorect</string>
+    <string name="lock_empty">Codul de securitate nu poate fi gol</string>
+</resources>
+
