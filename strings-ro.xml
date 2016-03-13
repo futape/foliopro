@@ -11,39 +11,39 @@
     <string name="app_name">Folio Pro</string>
     <!-- Replaces Facebook WebView Title -->
     <string name="app_name_toolbar">Folio Pro</string>
-    <string name="app_name_about">Folio for Facebook Pro</string>
-    <string name="action_settings">Settings</string>
-    <string name="end">Log out</string>
+    <string name="app_name_about">Folio Pro pentru Facebook</string>
+    <string name="action_settings">Setari</string>
+    <string name="end">Deconectare</string>
     <!-- Close Drawer -->
-    <string name="closeDrawer">Navigation View</string>
+    <string name="closeDrawer">Ascunde meniul de scurtaturi</string>
     <!-- Open Drawer -->
-    <string name="openDrawer">Open Left Drawer</string>
+    <string name="openDrawer">Arata meniul de scurtaturi</string>
 
     <!-- Close The App -->
-    <string name="exit">Close</string>
+    <string name="exit">Iesire</string>
     <!-- Save Image On Long Press -->
-    <string name="customize_folio">Customize Folio Pro</string>
-    <string name="customize_folio_hint">Change look and layout.</string>
-    <string name="tap_to_set">Tap To Apply Changes</string>
+    <string name="customize_folio">Personalizeaza Folio Pro</string>
+    <string name="customize_folio_hint">Schimba aspectul si aranjarea.</string>
+    <string name="tap_to_set">Apasa aici pentru a aplica modificarile</string>
 
-    <string name="status_updated">Status updated.</string>
+    <string name="status_updated">Stare actualizata.</string>
 
 
     <!-- FAB LABELS -->
-    <string name="update_status">Post Status</string>
-    <string name="update_photo">Add Photos</string>
-    <string name="update_share">Share Now</string>
+    <string name="update_status">Posteaza o stare</string>
+    <string name="update_photo">Adauga fotografii</string>
+    <string name="update_share">Imparte cu cineva acum</string>
 
-    <string name="license_success">Themes activiated</string>
-    <string name="license_failed">Themes disabled</string>
+    <string name="license_success">Temele sunt activate</string>
+    <string name="license_failed">Temele sunt dezactivate</string>
 
-    <string name="show_fab">Display a FAB</string>
-    <string name="show_fab_hint">Display a floating action button to post status updates to Facebook via Folio Pro.</string>
+    <string name="show_fab">Arata butonul de scurtaturi</string>
+    <string name="show_fab_hint">Arata scurtaturile rapide pentru a posta stari pe Facebook prin Folio Pro.</string>
 
-    <string name="loading_video">Loading.</string>
+    <string name="loading_video">Se incarca.</string>
 
-    <string name="hide_sponsored">Hide Sponsored Posts</string>
-    <string name="hide_sponsored_description">Remove Facebook ads &amp; sponsored posts.</string>
+    <string name="hide_sponsored">Ascunde postarile sponsorizate</string>
+    <string name="hide_sponsored_description">Ascunde postarile publicitare Facebook &amp; pe cele sponsorizate.</string>
 
 
 
@@ -52,85 +52,85 @@
 
 
     <!-- Folio Drawer -->
-    <string name="quickaccess">Quick Access</string>
-    <string name="newsfeed">Most Recent</string>
-    <string name="trending">Trending</string>
-    <string name="messages">Messages</string>
-    <string name="topnews">Top News</string>
-    <string name="fbmenu">Facebook Menu</string>
+    <string name="quickaccess">Acces rapid</string>
+    <string name="newsfeed">Recente</string>
+    <string name="trending">Tendinte</string>
+    <string name="messages">Mesaje</string>
+    <string name="topnews">Stiri de top</string>
+    <string name="fbmenu">Meniul Facebook</string>
 
-    <string name="faved">Favorites</string>
-    <string name="friends">Friends</string>
-    <string name="groups">Groups</string>
-    <string name="pages">Pages</string>
-    <string name="photos">Photos</string>
+    <string name="faved">Favorite</string>
+    <string name="friends">Prieteni</string>
+    <string name="groups">Grupuri</string>
+    <string name="pages">Pagini</string>
+    <string name="photos">Poze</string>
 
-    <string name="reminders">Reminders</string>
-    <string name="events">Events</string>
-    <string name="onthisday">On This Day</string>
-    <string name="saved">Saved</string>
+    <string name="reminders">Alarme</string>
+    <string name="events">Evenimente</string>
+    <string name="onthisday">S-a intamplat azi</string>
+    <string name="saved">Salvate</string>
 
-    <string name="prefs">Preferences</string>
-    <string name="settings">Settings</string>
-    <string name="helpfeed">Feedback</string>
-    <string name="bugs">Report A Bug</string>
+    <string name="prefs">Preferinte</string>
+    <string name="settings">Setari</string>
+    <string name="helpfeed">Parerea ta</string>
+    <string name="bugs">Raporteaza o problema</string>
 
     <!-- Twitter Drawer -->
-    <string name="discover">Discover</string>
-    <string name="connect">Connect</string>
-    <string name="twitter_search">Search</string>
-    <string name="twitter_home">Home</string>
-    <string name="twitter_me">Me</string>
-    <string name="switch_to_folio">Switch to Folio Pro</string>
-    <string name="switch_to_twitter">Switch to Twitter</string>
-    <string name="switch_to_gplus">Switch to Google+</string>
-    <string name="switch_to_gram">Switch to Instagram</string>
-    <string name="switch_to_tum">Switch to Tumblr</string>
+    <string name="discover">Descopera</string>
+    <string name="connect">Conectare</string>
+    <string name="twitter_search">Cautare</string>
+    <string name="twitter_home">Acasa</string>
+    <string name="twitter_me">Eu</string>
+    <string name="switch_to_folio">Treci pe Folio Pro</string>
+    <string name="switch_to_twitter">Treci pe Twitter</string>
+    <string name="switch_to_gplus">Treci pe Google+</string>
+    <string name="switch_to_gram">Treci pe Instagram</string>
+    <string name="switch_to_tum">Treci pe Tumblr</string>
 
     <!-- Add ons -->
-    <string name="addons">Social Add-ons</string>
-    <string name="enable_twitter">Remove Twitter</string>
-    <string name="enable_google">Remove Google+</string>
-    <string name="enable_instagram">Remove Instagram</string>
-    <string name="enable_tumblr">Remove Tumblr</string>
+    <string name="addons">Module sociale</string>
+    <string name="enable_twitter">Ascunde Twitter</string>
+    <string name="enable_google">Ascunde Google+</string>
+    <string name="enable_instagram">Ascunde Instagram</string>
+    <string name="enable_tumblr">Ascunde Tumblr</string>
 
     <!-- Removals -->
-    <string name="navigation_pref">Navigation Drawer Items</string>
-    <string name="navigation_pref_hint">Customize the navigation drawer by removing items you don\'t use in Folio Pro.</string>
-    <string name="recent_nav">Remove Most Recent</string>
-    <string name="top_nav">Remove Top News</string>
-    <string name="facebook_nav">Remove Messages</string>
-    <string name="trending_nav">Remove Trending</string>
-    <string name="friends_nav">Remove Friends</string>
-    <string name="groups_nav">Remove Groups</string>
-    <string name="pages_nav">Remove Pages</string>
-    <string name="photos_nav">Remove Photos</string>
-    <string name="events_nav">Remove Events</string>
-    <string name="onday_nav">Remove On This Day</string>
-    <string name="saved_nav">Remove Saved</string>
+    <string name="navigation_pref">Elementele meniului de scurtaturi</string>
+    <string name="navigation_pref_hint">Ascunde elementele meniului de scurtaturi pe care nu le folosesti.</string>
+    <string name="recent_nav">Ascunde "Recente"</string>
+    <string name="top_nav">Ascunde "Stiri de top"</string>
+    <string name="facebook_nav">Ascunde "Mesaje"</string>
+    <string name="trending_nav">Ascunde "Tendinte"</string>
+    <string name="friends_nav">Ascudne "Prieteni"</string>
+    <string name="groups_nav">Ascudne "Grupuri"</string>
+    <string name="pages_nav">Ascunde "Pagini"</string>
+    <string name="photos_nav">Ascudne "Poze"</string>
+    <string name="events_nav">Ascunde "Evenimente"</string>
+    <string name="onday_nav">Ascunde "S-a intamplat azi"/string>
+    <string name="saved_nav">Ascunde "Salvate"</string>
 
     <!-- News Feed -->
-    <string name="news_feed_preferences">News Feed Preference</string>
-    <string name="top_always">Top News</string>
-    <string name="top_always_hint">Load Top News when launching Folio.</string>
+    <string name="news_feed_preferences">Setarile fluxului de informatii</string>
+    <string name="top_always">Stiri de top</string>
+    <string name="top_always_hint">Stirile de top se incarca primele la pornire.</string>
 
     <!-- Fonts -->
-    <string name="font_preference">Facebook Font Preference</string>
-    <string name="larger_font_hint">Increase readability by enlarging fonts throughout Facebook. Disable other sizes for your font preference to work.</string>
-    <string name="font_set">Tap to relaunch Folio with your chosen font size.</string>
-    <string name="default_font">Default Font Size</string>
-    <string name="medium_font">Medium Font Size</string>
-    <string name="large_font">Large Font Size</string>
-    <string name="xl_font">Xtra Large Font Size</string>
-    <string name="xxl_font">Xtra-Xtra Large Font Size</string>
+    <string name="font_preference">Setari pentru tipul de scris folosit</string>
+    <string name="larger_font_hint">Creste gradul de vizibilitate al scrisului prin marirea literelor. Alege doar o marime de litera pentru a functiona.</string>
+    <string name="font_set">Apasa pentru a aplica setarile de litere.</string>
+    <string name="default_font">Marime implcita</string>
+    <string name="medium_font">Marime medie</string>
+    <string name="large_font">Marime mare</string>
+    <string name="xl_font">Marime foarte mare</string>
+    <string name="xxl_font">Marime gigant</string>
 
     <string-array name="font_choice">
-        <item>Default Font</item>
-        <item>Small Font</item>
-        <item>Medium Font</item>
-        <item>Large Font</item>
-        <item>XLarge Font</item>
-        <item>XXLarge Font</item>
+        <item>Implicita</item>
+        <item>Litere mici</item>
+        <item>Litere medii</item>
+        <item>Litere mari</item>
+        <item>Litere foarte</item>
+        <item>Litere gigant</item>
 
     </string-array>
 
@@ -138,44 +138,44 @@
 
 
     <!-- Overflow Menu Folio -->
-    <string name="top">Jump To Top</string>
-    <string name="fb_settings">Facebook Settings</string>
-    <string name="fb_chat">Active Friends</string>
-    <string name="fb_recent">Most Recent</string>
-    <string name="refresh">Refresh</string>
-    <string name="notifications">Notifications</string>
-    <string name="notifications_about_hint">Setup notifications.</string>
-    <string name="search">Search Facebook</string>
+    <string name="top">Sari la inceput</string>
+    <string name="fb_settings">Setari Facebook</string>
+    <string name="fb_chat">Prieteni activi</string>
+    <string name="fb_recent">Recente</string>
+    <string name="refresh">Actualizare</string>
+    <string name="notifications">Notificari</string>
+    <string name="notifications_about_hint">Setari pentru notificari.</string>
+    <string name="search">Cauta pe Facebook</string>
 
 
 
 
     <!-- Save Image On Long Press  & Sharing-->
-    <string name="saveFolio">Save Image</string>
-    <string name="txt_save_image_success">Downloading Image.</string>
-    <string name="txt_save_image_failed">Could not save image</string>
-    <string name="share_action">Share current page</string>
-    <string name="share_action_subject">Facebook page</string>
+    <string name="saveFolio">Salveaza poza</string>
+    <string name="txt_save_image_success">Poza se descarca.</string>
+    <string name="txt_save_image_failed">Nu pot salva poza</string>
+    <string name="share_action">Imparte cu cineva pagina curenta</string>
+    <string name="share_action_subject">Pagina Facebook</string>
     <!-- Save Image On Long Press -->
 
     <string name="facebook_app_id">749196541804006</string>
-    <string name="get_started">Log In With Facebook</string>
-    <string name="send_feedback">Folio Pro Feedback</string>
+    <string name="get_started">Conecteaza-te</string>
+    <string name="send_feedback">Parerea ta despre Folio Pro</string>
     <string name="ok">OK</string>
-    <string name="applying_changes">Clearing cache. Relaunch Folio Pro.</string>
+    <string name="applying_changes">Se sterg datele temporare. Reporneste Folio Pro.</string>
 
 
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Renunta</string>
 
     <!-- Don't Know Why I'm Giving A Choice Here But...-->
 
-    <string name="site_preference">Choose Facebook Mode (BETA)</string>
-    <string name="site_preference_hint">Current Mode: %s.</string>
+    <string name="site_preference">Alege modul de lucru Facebook (in testare)</string>
+    <string name="site_preference_hint">Modul curent e: %s.</string>
 
 
-    <string name="default_mode">Facebook Mobile</string>
-    <string name="basic_mode">Facebook Basic</string>
-    <string name="desktop_mode">Desktop Mode</string>
+    <string name="default_mode">Facebook Mobil</string>
+    <string name="basic_mode">Facebook Primar</string>
+    <string name="desktop_mode">Facebook Extins</string>
 
 
 
@@ -401,47 +401,47 @@
 
     <!-- Random Strings Part 1 -->
 
-    <string name="fb_offline">Error</string>
-    <string name="cancelled">Cancelled</string>
-    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
-    <string name="image_chooser">Image Chooser</string>
-    <string name="loading_link">Opening With Folio</string>
-    <string name="author">Created by Jorell Rutledge</string>
-    <string name="title_activity_settings">Settings</string>
-    <string name="title_activity_about">About Folio</string>
-    <string name="title_activity_about_hint">Learn about the different libraries used in Folio Pro. Get its source on GitHub, join us on Facebook and more.</string>
+    <string name="fb_offline">Eroare</string>
+    <string name="cancelled">Actiune anulata</string>
+    <string name="permission_not_granted">Nu se pot executa actiunile selectate din lipsa de permisiuni.</string>
+    <string name="image_chooser">Alege imagini</string>
+    <string name="loading_link">Deschidere cu Folio</string>
+    <string name="author">Cerat de Jorell Rutledge</string>
+    <string name="title_activity_settings">Setari</string>
+    <string name="title_activity_about">Despre Folio</string>
+    <string name="title_activity_about_hint">Afla mai multe despre Folio Pro.</string>
 
-    <string name="email_author">Send Feedback</string>
-    <string name="choose_email_client">Choose e-mail client</string>
-    <string name="no_network">You\'re not online.</string> <!-- You MUST include the \ in your translation. For example... ***You'\re**** is spelled like that -->
+    <string name="email_author">Trimite parerea ta</string>
+    <string name="choose_email_client">Alege aplicatia de posta electronica</string>
+    <string name="no_network">Esti deconectat.</string> <!-- You MUST include the \ in your translation. For example... ***You'\re**** is spelled like that -->
 
-    <string name="share_link">Share this item</string>
-    <string name="long_clicks">Long Clicks</string>
-    <string name="long_clicks_description">Long click images to save them.</string>
+    <string name="share_link">Imparte cu cineva acest element</string>
+    <string name="long_clicks">Apasari lungi</string>
+    <string name="long_clicks_description">Salveaza o poza prin apasari lungi.</string>
 
 
     <!-- Random Strings Part 2 -->
-    <string name="preference_category4">Folio Pro Themes</string>
+    <string name="preference_category4">Temele Folio Pro</string>
 
 
 
-    <string name="donate_jorell">Support Development &amp; Unlock Features</string>
-    <string name="donate_jorell_description">Help me stay up to code.</string>
+    <string name="donate_jorell">Ajuta programatorul si activeaza noi functii</string>
+    <string name="donate_jorell_description">Ajuta-ma sa actualizez mai des problemele.</string>
     <string name="donate_jorell_link" translatable="true">http://paypal.me/creativetrends</string>
-    <string name="donate_jorell_about">Buy Me A Coffee</string>
+    <string name="donate_jorell_about">Cumpara-mi o cafea</string>
 
 
 
     <!-- Bottom Section of Credits-->
-    <string name="hardware_acceleration">Hardware Acceleration</string>
-    <string name="credits_settings">Credits</string>
-    <string name="preference_category7">Customizations</string>
-    <string name="preference_about_category">About</string>
-    <string name="preference_set_category">All Set?</string>
-    <string name="preference_donate_category">Purchase Folio Key</string>
-    <string name="preference_rest_category">Reset Folio To Default Settings</string>
-    <string name="preference_category15">Folio Pro Layout Settings</string>
-    <string name="preference_facebook_layouts">Facebook Layout Settings</string>
+    <string name="hardware_acceleration">Accelerare grafica hard</string>
+    <string name="credits_settings">Multumiri</string>
+    <string name="preference_category7">Setari</string>
+    <string name="preference_about_category">Despre</string>
+    <string name="preference_set_category">Totul e gata</string>
+    <string name="preference_donate_category">Cumpara Folio Pro</string>
+    <string name="preference_rest_category">Adu Folio la setarile implicite</string>
+    <string name="preference_category15">Setarile de aspect pentru  aplicatie</string>
+    <string name="preference_facebook_layouts">Setarile de aspect pentru Facebook</string>
 
     <string name="fixed_nav">Fixed Facebook bar</string>
     <string name="fixed_nav_description">Facebook navigation bar always on top.</string>
