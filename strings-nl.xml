@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!--Copyright (C) 2014-2015 Jorell Rutledge/Creative Trends.
+    This file is originally part of Folio for Facebook.
+    Copyright notice must remain here if you're using any part of this code.-->
+
+    <!-- Basic Strings -->
+    <string name="app_name">Folio Pro</string>
+    <!-- Replaces Facebook WebView Title -->
+    <string name="app_name_toolbar">Folio Pro</string>
+    <string name="app_name_about">Folio voor Facebook Pro</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="end">Uitloggen</string>
+    <!-- Close Drawer -->
+    <string name="closeDrawer">Navigatiebeeld</string>
+    <!-- Open Drawer -->
+    <string name="openDrawer">Open Linker Menu</string>
+
+    <!-- Close The App -->
+    <string name="exit">Sluiten</string>
+    <!-- Save Image On Long Press -->
+    <string name="customize_folio">Folio Pro Aanpassen</string>
+    <string name="customize_folio_hint">Verander het uiterlijk en layout.</string>
+    <string name="tap_to_set">Druk om de veranderingen toe te passen.</string>
+
+    <string name="status_updated">Status bijgewerkt.</string>
+
+
+    <!-- FAB LABELS -->
+    <string name="update_status">Status bijwerken</string>
+    <string name="update_photo">Foto\'s toevoegen</string>
+    <string name="update_share">Delen</string>
+
+    <string name="license_success">Thema\'s toegepast</string>
+    <string name="license_failed">Thema\'s uitgeschakeld</string>
+
+    <string name="show_fab">FAB weergeven</string>
+    <string name="show_fab_hint">Geef een actieknop weer waarmee uw status op Facebook via Folio Pro kan worden bijgewerkt.</string>
+
+    <string name="loading_video">Laden.</string>
+
+    <string name="hide_sponsored">Verberg Gesponsorde Posts</string>
+    <string name="hide_sponsored_description">Verberg Facebook advertenties en gesponsorde posts.</string>
+
+
+
+
+
+
+
+    <!-- Folio Drawer -->
+    <string name="quickaccess">Snelle Toegang</string>
+    <string name="newsfeed">Meest Recent</string>
+    <string name="trending">Trending</string>
+    <string name="messages">Berichten</string>
+    <string name="topnews">Top Nieuws</string>
+    <string name="fbmenu">Facebook Menu</string>
+
+    <string name="faved">Favorieten</string>
+    <string name="friends">Vrienden</string>
+    <string name="groups">Groepen</string>
+    <string name="pages">Pagina\'s</string>
+    <string name="photos">Foto\'s</string>
+
+    <string name="reminders">Herinneringen</string>
+    <string name="events">Evenementen</string>
+    <string name="onthisday">Op Deze Dag</string>
+    <string name="saved">Opgeslagen</string>
+
+    <string name="prefs">Voorkeuren</string>
+    <string name="settings">Instellingen</string>
+    <string name="helpfeed">Feedback</string>
+    <string name="bugs">Een Bug Melden</string>
+
+    <!-- Twitter Drawer -->
+    <string name="discover">Ontdekken</string>
+    <string name="connect">Verbinden</string>
+    <string name="twitter_search">Zoeken</string>
+    <string name="twitter_home">Homepagina</string>
+    <string name="twitter_me">Ik</string>
+    <string name="switch_to_folio">Overschakelen naar Folio Pro</string>
+    <string name="switch_to_twitter">Overschakelen naar Twitter</string>
+    <string name="switch_to_gplus">Overschakelen naar Google+</string>
+    <string name="switch_to_gram">Overschakelen naar Instagram</string>
+    <string name="switch_to_tum">Overschakelen naar Tumblr</string>
+
+    <!-- Add ons -->
+    <string name="addons">Sociale Add-ons</string>
+    <string name="enable_twitter">Twitter Verwijderen</string>
+    <string name="enable_google">Google+ Verwijderen</string>
+    <string name="enable_instagram">Instagram Verwijderen</string>
+    <string name="enable_tumblr">Tumblr Verwijderen</string>
+
+    <!-- Removals -->
+    <string name="navigation_pref">Items op Navigatiemenu</string>
+    <string name="navigation_pref_hint">Pas het navigatiemenu aan door de items die je in Folio Pro niet gebruikt te verwijderen.</string>
+    <string name="recent_nav">Verwijder Meest Recent</string>
+    <string name="top_nav">Verwijder Top Nieuws</string>
+    <string name="facebook_nav">Verwijder Berichten</string>
+    <string name="trending_nav">Verwijder Trending</string>
+    <string name="friends_nav">Verwijder Vrienden</string>
+    <string name="groups_nav">Verwijder Groepen</string>
+    <string name="pages_nav">Verwijder Pagina\'s</string>
+    <string name="photos_nav">Verwijder Foto\'s</string>
+    <string name="events_nav">Verwijder Evenementen</string>
+    <string name="onday_nav">Verwijder Op Deze Dag</string>
+    <string name="saved_nav">Verwijder Opgeslagen</string>
+
+    <!-- News Feed -->
+    <string name="news_feed_preferences">Nieuwsfeed Voorkeuren</string>
+    <string name="top_always">Top Nieuws</string>
+    <string name="top_always_hint">Top Nieuws laden wanneer Folio wordt gestart.</string>
+
+    <!-- Fonts -->
+    <string name="font_preference">Facebook Lettertype Voorkeuren</string>
+    <string name="larger_font_hint">De leesbaarheid van Facebook vergroten door een groter lettertype te gebruiken. Schakel de maten die je niet gebruikt uit om deze functie te laten werken.</string>
+    <string name="font_set">Druk om Folio te herladen met de gekozen maat lettertype.</string>
+    <string name="default_font">Standaard Lettertype</string>
+    <string name="medium_font">Middelgroot Lettertype</string>
+    <string name="large_font">Groot Lettertype</string>
+    <string name="xl_font">Xtra Groot Lettertype</string>
+    <string name="xxl_font">Xtra-Xtra Groot Lettertype</string>
+
+    <string-array name="font_choice">
+        <item>Standaard Lettertype</item>
+        <item>Klein Lettertype</item>
+        <item>Middelgroot Lettertype</item>
+        <item>Groot Lettertype</item>
+        <item>XGroot Lettertype</item>
+        <item>XXGroot Lettertype</item>
+
+    </string-array>
+
+
+
+
+    <!-- Overflow Menu Folio -->
+    <string name="top">Spring Naar Boven</string>
+    <string name="fb_settings">Facebook Instellingen</string>
+    <string name="fb_chat">Actieve Vrienden</string>
+    <string name="fb_recent">Meest Recent</string>
+    <string name="refresh">Vernieuwen</string>
+    <string name="notifications">Notificaties</string>
+    <string name="notifications_about_hint">Notificaties instellen.</string>
+    <string name="search">Zoeken op Facebook</string>
+
+
+
+
+    <!-- Save Image On Long Press  & Sharing-->
+    <string name="saveFolio">Afbeelding Opslaan</string>
+    <string name="txt_save_image_success">Afbeelding opgeslagen.</string>
+    <string name="txt_save_image_failed">Afbeelding kon niet worden opgeslagen.</string>
+    <string name="share_action">Huidige Pagina Delen</string>
+    <string name="share_action_subject">Facebook Pagina</string>
+    <!-- Save Image On Long Press -->
+
+    <string name="facebook_app_id">749196541804006</string>
+    <string name="get_started">Inloggen op Facebook</string>
+    <string name="send_feedback">Folio Pro Feedback</string>
+    <string name="ok">OK</string>
+    <string name="applying_changes">Cache wordt verwijderd. Start Folio Pro opnieuw op.</string>
+
+
+    <string name="cancel">Annuleren</string>
+
+    <!-- Don't Know Why I'm Giving A Choice Here But...-->
+
+    <string name="site_preference">Kies Facebook Modus (BETA)</string>
+    <string name="site_preference_hint">Huidige Modus: %s.</string>
+
+
+    <string name="default_mode">Facebook Mobiel</string>
+    <string name="basic_mode">Facebook Standaard</string>
+    <string name="desktop_mode">Desktop Modus</string>
+
+
+
+
+    <!-- DO NOT TRANSLATE-->
+    <string name="about_text"><![CDATA[
+        
+    
+    <b>Tray Preferences</b><br><br>
+    Copyright 2015 grandcentrix GmbH<br><br>
+
+   	Licensed under the Apache License, Version 2.0 (the "License");
+   	you may not use this file except in compliance with the License.<br>
+   	You may obtain a copy of the License at:<br><br>
+
+   	http://www.apache.org/licenses/LICENSE-2.0<br><br>
+
+   	Unless required by applicable law or agreed to in writing, software
+  	distributed under the License is distributed on an "AS IS" BASIS,
+   	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<br>
+   	See the License for the specific language governing permissions and
+   	limitations under the License.<br><br><br>
+   	
+   	
+   	<b>Material Preferences</b><br><br>
+   	
+   	The MIT License (MIT)<br><br>
+
+	Copyright (&#169;) 2015 Jens Driller<br><br>
+
+	Permission is hereby granted, free of charge, to any person obtaining a copy
+	of this software and associated documentation files (the "Software"), to deal
+	in the Software without restriction, including without limitation the rights
+	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	copies of the Software, and to permit persons to whom the Software is
+	furnished to do so, subject to the following conditions:<br><br>
+
+	The above copyright notice and this permission notice shall be included in all
+	copies or substantial portions of the Software.<br><br>
+
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+	SOFTWARE.<br><br><br>
+
+	<b>Material Preference Compat</b><br><br>
+
+	The MIT License (MIT)<br><br>
+
+	Copyright (&#169;) 2015 Fung Jichun<br><br>
+
+	Permission is hereby granted, free of charge, to any person obtaining a copy
+	of this software and associated documentation files (the "Software"), to deal
+	in the Software without restriction, including without limitation the rights
+	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	copies of the Software, and to permit persons to whom the Software is
+	furnished to do so, subject to the following conditions:<br><br>
+
+	The above copyright notice and this permission notice shall be included in all
+	copies or substantial portions of the Software.<br><br>
+
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+	SOFTWARE.<br><br>
+
+
+	<b>Facebook SDK</b><br><br>
+
+	Copyright (&#169;) 2014-present, Facebook, Inc. All rights reserved.
+	<br><br>
+	You are hereby granted a non-exclusive, worldwide, royalty-free license to use,
+	copy, modify, and distribute this software in source code or binary form for use
+	in connection with the web services and APIs provided by Facebook.
+	<br><br>
+	As with any software that integrates with the Facebook platform, your use of
+	this software is subject to the Facebook Developer Principles and Policies
+	[http://developers.facebook.com/policy/]. This copyright notice shall be
+	included in all copies or substantial portions of the software.
+	<br><br>
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+	FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+	COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+	IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+	CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+	<br><br>
+
+	<b>Picasso</b><br><br>
+	Copyright 2013 Square, Inc.<br><br>
+
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at<br><br>
+
+	http://www.apache.org/licenses/LICENSE-2.0<br><br>
+
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.<br><br>
+	
+
+    	
+	<b>Clans Floating Action Button</b><br><br>
+	Copyright 2015 Dmytro Tarianyk
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+	
+	
+	<b>ActionItemBadge</b><br><br>
+	Copyright 2015 Mike Penz
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+	
+	
+	<b>Android-Iconics</b><br><br>
+	Copyright 2015 Mike Penz
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+	
+	
+	<b>AdvancedWebView</b><br><br>
+	Copyright 2015 delight.im <info@delight.im>
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+	
+	
+	<b>AppRater</b><br><br>
+	Copyright 2013 Andrew Jackson
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+	
+	<b>FloatingView</b><br><br>
+	Copyright (&#169;) 2013 Luke Klinker
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+    ]]></string>
+
+    <string name="about_header">Open source licenses\nNotices for files</string>
+
+
+
+    <string name="copyright">\u00A9 2015 Creative Trends Apps LLC.</string>
+    <string name="allrights">All Rights Reserved.</string>
+
+    <string name="about_version">http://www.creativetrendsapps.com</string>
+    <string name="about_image">Image Credit: Klyph for Facebook</string>
+
+
+    <!-- Random Strings Part 1 -->
+
+    <string name="fb_offline">Fout</string>
+    <string name="cancelled">Geannuleerd</string>
+    <string name="permission_not_granted">Kon actie niet voltooien omdat de benodigde rechten niet zijn verleend.</string>
+    <string name="image_chooser">Afbeelding Kiezer</string>
+    <string name="loading_link">Openen Met Folio</string>
+    <string name="author">Gemaakt door Jorell Rutledge</string>
+    <string name="title_activity_settings">Instellingen</string>
+    <string name="title_activity_about">Over Folio</string>
+    <string name="title_activity_about_hint">Ontdek de verschillende libraries die in Folio Pro zijn gebruikt. Verkrijg de source op GitHub, word lid van onze Facebookpagina en meer.</string>
+
+    <string name="email_author">Verstuur Feedback</string>
+    <string name="choose_email_client">Kies e-mailclient</string>
+    <string name="no_network">Je bent niet online.</string> <!-- You MUST include the \ in your translation. For example... ***You'\re**** is spelled like that -->
+
+    <string name="share_link">Deel dit item</string>
+    <string name="long_clicks">Lang Drukken</string>
+    <string name="long_clicks_description">Druk lang op de afbeelding om op te slaan.</string>
+
+
+    <!-- Random Strings Part 2 -->
+    <string name="preference_category4">Folio Pro Thema\'s</string>
+
+
+
+    <string name="donate_jorell">Steun De Ontwikkeling &amp; Ontgrendel Functies</string>
+    <string name="donate_jorell_description">Help me wakker te blijven en te coderen.</string>
+    <string name="donate_jorell_link" translatable="true">http://paypal.me/creativetrends</string>
+    <string name="donate_jorell_about">Betaal een kop koffie voor me.</string>
+
+
+
+    <!-- Bottom Section of Credits-->
+    <string name="hardware_acceleration">Hardware Versnelling</string>
+    <string name="credits_settings">Credits</string>
+    <string name="preference_category7">Aanpassingen</string>
+    <string name="preference_about_category">Over</string>
+    <string name="preference_set_category">Helemaal Klaar?</string>
+    <string name="preference_donate_category">Koop een Folio Key</string>
+    <string name="preference_rest_category">Herstel de standaardinstellingen van Folio</string>
+    <string name="preference_category15">Folio Pro Layout Instellingen</string>
+    <string name="preference_facebook_layouts">Facebook Layout Instellingen</string>
+
+    <string name="fixed_nav">Facebook-balk Vastzetten</string>
+    <string name="fixed_nav_description">Zet de Facebook-balk vast aan de bovenkant.</string>
+
+    <string name="credits_licenses">Druk hier om meer te weten te komen over de licenties die in Folio Pro worden gebruikt.</string>
+    <string name="credits_licenses_description">Open de source software licenties</string>
+    <string name="clear_cache">Data Verwijderen</string>
+
+    <string name="clear_cache_title">Weet u het zeker?</string>
+    <string name="clear_cache_message">Druk OK om de data van Folio Pro te verwijderen. Hiermee wordt u ook uitgelogd.</string>
+
+    <string name="clear_cache_description">Druk OK om de data van Folio Pro te verwijderen. Hiermee wordt u ook uitgelogd.</string> <!-- You MUST include the \ in your translation. For example... ***You\'re**** is spelled like that -->
+
+    <string name="preferences_feedback">Verstuur Feedback</string>
+    <string name="preferences_feedback_description">Heeft u een vraag? Heeft u hulp nodig? Druk hier om ons een e-mail te sturen.</string>
+    <string name="preferences_feedback_link" translatable="true">mailto:creativetrendzappsllc@gmail.com?Subject=Folio</string>
+
+    <string name="preferences_rate">Help anderen door Folio te beoordelen</string>
+    <string name="preferences_rate_hint">Beoordeel Folio op de Play Store</string>
+    <string name="preferences_rate_description">Beoordeel Folio Pro</string>
+
+
+    <string name="preferences_auto">Folio Toolbar Inschakelen</string>
+    <string name="preferences_auto_hint">Hiermee verbergt u de navigatiebalk van Facebook.</string>
+
+
+
+
+
+    <!-- All About Credits -->
+
+    <string name="preference_category6">Credits</string>
+
+    <string name="credits_bejan">Bejan Kanga</string>
+    <string name="credits_bejan_description">Voor de launcher-iconen van Folio &amp; Folio Messenger. Ook voor een aantal navigatiebalk-iconen. Ook voor de ontwikkeling van sommige delen van de oorspronkelijke app-FrontPage. Druk hier om de website te bezoeken.</string>
+    <string name="credits_bejan_link" translatable="true">http://bejank.com</string>
+
+    <string name="credits_nam">Nam Nghiem</string>
+    <string name="credits_nam_description">Voor zijn hulp met de omslagfoto\'s. Check ook zijn Facebook-client.</string>
+    <string name="credits_nam_link" translatable="true">https://play.google.com/store/apps/details?id=com.nam.fbwrapper&amp;hl=en</string>
+
+    <string name="credits_fadev">Florent Anders</string>
+    <string name="credits_fadev_description">Voor zijn hulp met Folio Lock. Check ook zijn Facebook-client.</string>
+    <string name="credits_fadev_link" translatable="true">https://play.google.com/store/apps/details?id=com.fa.touch.app&amp;hl=en</string>
+
+    <string name="credits_dan">Daniel Velazco/nJames Vento</string>
+    <string name="credits_dan_description">Voor het gebruik van de code om video\'s op volledig scherm af te spelen die in Tinfoil gebruikt wordt. Check Tinfoil voor Facebook.</string>
+    <string name="credits_dan_link" translatable="true">https://play.google.com/store/apps/details?id=com.danvelazco.fbwrapper&amp;hl=en</string>
+
+
+    <string name="credits_beta">Facebook Groep</string>
+    <string name="credits_beta_description">Word lid van Creative Trends Apps op Facebook.</string>
+    <string name="credits_beta_link" translatable="true">https://www.facebook.com/groups/creativtrendz/</string>
+
+
+    <string name="credits_google_plus">Google+</string>
+    <string name="credits_google_plus_description">Word lid van Creative Trends op Google+</string>
+    <string name="credits_google_plus_link" translatable="true">https://plus.google.com/communities/116238843585710616103</string>
+
+
+
+
+    <string name="credits_janae">Janae</string>
+    <string name="credits_janae_description">Voor de gedeelde interesse in technologie en het geduld terwijl papa aan het werk was.</string>
+
+
+    <string name="credits_tykeshia">Tykeshia</string>
+    <string name="credits_tykeshia_description">Voor de steun en aanmoediging door de laatste jaren heen. Dank voor het uitlenen van de laptop aan mij.</string>
+
+
+    <string name="credits_facebook">Facebook Inc.</string>
+    <string name="credits_facebook_description">Voor hun nieuwe Graph API. Ook voor hun mobiele website die in Folio wordt gebruikt.</string>
+    <string name="credits_facebook_link" translatable="true">http://m.facebook.com</string>
+
+    <string name="credits_google">Google Inc.</string>
+    <string name="credits_google_description">Voor AppCompat v7, ook voor het open source maken van hun Material Design-iconen.</string>
+    <string name="credits_google_link" translatable="true">https://developer.android.com/tools/support-library/features.html</string>
+
+
+    <string name="preference_category10">Gebruikte Open Source Software</string>
+    <string name="preference_category8">Open Source Licenties</string>
+
+    <string name="credits_tray">Tray Voorkeuren</string>
+    <string name="credits_tray_description">Druk hier om een fork op het project te maken.</string>
+    <string name="credits_tray_link" translatable="true">https://github.com/grandcentrix/tray</string>
+
+
+    <string name="credits_material">Folio voor Facebook</string>
+    <string name="credits_material_description">Druk hier om een fork op het project te maken.</string>
+    <string name="credits_material_link" translatable="true">https://github.com/creativetrendsapps/Folioforfacebook</string>
+
+
+    <string name="credits_preferences">Material Voorkeuren Compat</string>
+    <string name="credits_preferences_description">Druk hier om een fork op het project te maken.</string>
+    <string name="credits_preferences_link" translatable="true">https://github.com/fython/MaterialPreferenceCompat</string>
+
+
+
+    <!-- All About Translations  -->
+
+    <string name="preference_category12">Vertalingen</string>
+
+    <string name="credits_italian">Fabio Catinella</string>
+    <string name="credits_italian_description">Italiano</string>
+
+    <string name="credits_spanish">Marco Rubio Asensio</string>
+    <string name="credits_spanish_description">EspaÃ±ol</string>
+
+    <string name="credits_german">Clemens Corell</string>
+    <string name="credits_german_description">Deutsch</string>
+
+    <string name="credits_brazilian">VinÃ­cius Rubens Pedrinho</string>
+    <string name="credits_brazilian_description">PortuguÃªs de Brasil</string>
+
+    <string name="credits_turk">Mehmet Ã‡alÄ±ÅŸkan</string>
+    <string name="credits_turk_description">TÃ¼rkÃ§e</string>
+
+    <string name="credits_fren">Jean Philippe</string>
+    <string name="credits_fren_description">FranÃ§ais</string>
+
+    <string name="credits_pol">seba112</string>
+    <string name="credits_pol_description">Polski</string>
+
+    <string name="credits_dut">Robert Boes</string>
+    <string name="credits_dut_description">Nederlands</string>
+
+    <string name="credits_dut2">Dennis</string>
+    <string name="credits_dut2_description">Nederlands</string>
+
+    <string name="credits_dut3">Philip Pervan</string>
+    <string name="credits_dut3_description">Nederlands</string>
+
+    <string name="credits_rom">Iulian Szidelo</string>
+    <string name="credits_rom_description">Romana</string>
+
+    <string name="credits_rus">ÐÑ€Ñ‚Ñ‘Ð¼ ÐŸÐµÑ‚Ñ€Ð¾Ð²</string>
+    <string name="credits_rus_description">Ð ÑƒÑÑÐºÐ¸Ð¹</string>
+
+    <string name="help_trans">Help Met Vertalen</string>
+    <string name="help_trans_hint">Druk om te helpen met de vertaling in uw eigen taal.</string>
+
+
+
+
+
+
+
+
+    <!-- All About Notifications -->
+
+    <string name="preference_category5">Algemeen</string>
+    <string name="activate_notifications">Facebook Notificaties</string>
+    <string name="activate_messages">Berichten Notificaties</string>
+    <string name="activate_friends">Vriendschapsverzoek Notificaties</string>
+    <string name="notifications_service_created">Notificaties geactiveerd</string>
+    <string name="notifications_settings">Notificaties</string>
+    <string name="all_notifications">Bekijk Notificaties</string>
+    <string name="all_messages">Bekijk Berichten</string>
+    <string name="all_requests">Bekijk Vriendschapsverzoeken</string>
+    <string name="notification_sound">Notificatiegeluid</string>
+    <string name="notification_sound_description">Huidig: \u0020</string>
+    <string name="message_sound">Notificatiegeluid Berichten</string>
+    <string name="message_sound_description">Huidig: \u0020</string>
+    <string name="silent">Geen Geluid</string>
+    <string name="vibrate">Trillen</string>
+    <string name="led_light">Notificatie LED</string>
+    <string name="led_color">Kleur van LED</string>
+    <string name="led_color_description">Huidige Kleur LED: %s.</string>
+    <string name="notifications_extra">Extra</string>
+    <string name="notifications_everywhere">Altijd Notificaties Ontvangen</string>
+    <string name="notifications_everywhere_description">Zelfs tijdens het gebruik van Folio.</string>
+    <string name="get_key">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app.key</string>
+    <string name="get_app_store">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app</string>
+
+
+
+    <string name="friend_request">&#160;nieuw vriendschapsverzoek</string>
+    <string name="friend_requests">&#160;nieuwe vriendschapsverzoeken</string>
+
+    <string name="new_notification">&#160;nieuwe notificatie</string>
+    <string name="new_notifications">&#160;nieuwe notificaties</string>
+
+
+
+
+    <!-- ALL ABOUT THEMES-->
+
+
+    <string name="choose_font_facebook">Formaat Facebook Lettertype</string>
+    <string name="choose_font_facebook_hint">Huidig Formaat: %s</string>
+
+
+    <string name="preference_category3">Facebook Thema\'s</string>
+
+    <string name="dark_theme">Zwart Thema</string>
+
+    <string name="dark_theme_description">Zwart thema aanzetten.</string>
+
+    <string name="red_theme">Android Studio Thema</string>
+
+    <string name="red_theme_description">Dracula thema aanzetten.</string>
+
+
+
+
+    <string-array name="pref_theme_entries">
+        <item>Folio Thema</item>
+        <item>Folio Thema Donker Menu</item>
+        <item>Roze Thema</item>
+        <item>Roze Thema Donker Menu</item>
+        <item>Paars Thema</item>
+        <item>Paars Thema Donker Menu</item>
+        <item>Donkerpaars Thema</item>
+        <item>Donkerpaars Thema Donker Menu</item>
+        <item>Donker Thema</item>
+        <item>Oranje Thema</item>
+        <item>Oranje Thema Donker Menu</item>
+        <item>Dieporanje Thema</item>
+        <item>Dieporanje Thema Donker Menu</item>
+        <item>Valk Thema</item>
+        <item>Valk Thema Donker Menu</item>
+        <item>Limoen Thema</item>
+        <item>Limoen Thema Donker Menu</item>
+        <item>Groen Thema</item>
+        <item>Groen Thema Donker Menu</item>
+        <item>Lichtgroen Thema</item>
+        <item>Lichtgroen Thema Donker Menu</item>
+        <item>Amber Thema</item>
+        <item>Amber Thema Donker Menu</item>
+        <item>Geel Thema</item>
+        <item>Geel Thema Donker Menu</item>
+        <item>Rood Thema</item>
+        <item>Rood Thema Donker Menu</item>
+        <item>Blauw Thema</item>
+        <item>Blauw Thema Donker Menu</item>
+        <item>Lichtblauw Thema</item>
+        <item>Lichtblauw Thema Donker Menu</item>
+        <item>Cyaan Thema</item>
+        <item>Cyaan Thema Donker Menu</item>
+        <item>Blauwgroen Thema</item>
+        <item>Blauwgroen Thema Donker Menu</item>
+        <item>Bruin Thema</item>
+        <item>Bruin Thema Donker Menu</item>
+        <item>Grijs Thema</item>
+        <item>Grijs Thema Donker Menu</item>
+        <item>Grijsblauw Thema</item>
+        <item>Grijsblauw Thema Donker Menu</item>
+
+
+
+
+    </string-array>
+
+
+
+
+    <string-array name="pref_theme_fb_entries">
+        <item>Facebook Thema</item>
+        <item>Zwart Thema</item>
+        <item>Dracula Thema</item>
+        <item>Folio Thema</item>
+    </string-array>
+
+
+    <string name="quick_bar">Snelbalk</string>
+    <string name="quick_bar_hint">Geef Folio Snelbalk weer?</string>
+
+    <string name="quick_bar_on">Snelbalk ingeschakeld.</string>
+
+    <string name="quick_bar_off">Snelbalk uitgeschakeld.</string>
+
+
+    <string name="no_images">Afbeeldingen uitschakelen</string>
+    <string name="no_images_hint">Dataverbruik verminderen door afbeeldingen niet te laden.</string>
+
+
+    <string name="hide_bar">Verwijder Facebook Balk</string>
+    <string name="hide_bar_hint">Swipe vanaf de linkerkant van het beeldscherm om bij het menu van Folio te komen.</string>
+
+
+    <string name="choose_theme_folio">Kies App Thema</string>
+    <string name="choose_theme_facebook">Kies Facebook Thema</string>
+    <string name="choose_theme_facebook_hint">Huidig thema: %s</string>
+    <string name="choose_theme_folio_hint">Huidig thema: %s</string>
+
+
+    <string name="hidden_bar">Facebook Balk Inschakelen</string>
+    <string name="hidden_bar_hint">Schakel eerst Folio\'s Toolbar uit.</string>
+
+    <string name="sync_problem">Potverdikkie! Dat is een foutmelding. Folio kon uw notificaties niet laden. Sluit Folio af en start de app opnieuw op.</string>
+
+    <string name="you_have_one_message">U heeft 1 nieuw bericht</string>
+    <string name="you_have_n_messages">U heeft %d nieuwe berichten</string>
+
+    <string name="file_logger">Sla de logs in een bestand op</string>
+    <string name="file_logger_description">Sla de Notificatie-Service logs op in een extern geheugen. Hier is toestemming tot opslagrechten voor nodig.</string>
+    <string name="file_logger_needs_permission">Geen toegang tot extern geheugen. Logs kunnen niet opgeslagen worden.</string>
+
+
+
+    <string name="interval_pref">Badge &amp; Synchronisatie Service</string>
+    <string name="interval_pref_description">Notificaties &amp; badges worden elke %s gechecked.</string>
+
+
+    <string-array name="update_interval">
+        <item>1 minuut</item>
+        <item>5 minuten</item>
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>1 uur</item>
+        <item>3 uren</item>
+        <item>6 uren</item>
+    </string-array>
+
+    <string-array name="update_interval_values">
+        <item>60000</item>
+        <item>300000</item>
+        <item>900000</item>
+        <item>1800000</item>
+        <item>3600000</item>
+        <item>10800000</item>
+        <item>21600000</item>
+    </string-array>
+
+
+
+    <string name="not_valid_title">Niet Geldig</string>
+    <string name="not_valid_message">Deze versie van Folio is niet afkomstig van de Play Store en zal daarom niet werken.</string>
+    <string name="get_from_play">Google Play</string>
+
+    <string name="people_you">Mensen die u wellicht kent</string>
+    <string name="people_you_hint">Verberg de mensen die u wellicht kent. (BETA)</string>
+
+    <string name="download_manager_disabled">DownloadManager is uitgeschakeld. Schakel deze functie eerst in.</string>
+    <string name="cannot_access_storage">Geen toegang tot extern geheugen</string>
+    <string name="file_cannot_be_saved">Een bestand kan niet opgeslagen worden</string>
+    <string name="camera_exception">Problemen met een camera gedetecteerd</string>
+
+    <!-- Folio Favorites -->
+
+    <string name="open_link_title">Chrome Aangepaste Tabs</string>
+    <string name="open_link_hint">Externe links in aangepaste Chrome Tabs openen?</string>
+
+    <string name="addPage">Toevoegen aan Favorieten</string>
+    <string name="removePage">Verwijderen uit Favorieten</string>
+
+    <string name="remember_title">Nieuwsfeed Positie (Beta)</string>
+    <string name="remember_hint">Onthoudt uw Nieuwsfeed positie.</string>
+
+    <string name="faq">FAQ\'s</string>
+
+    <string name="notify_log">Notificatie Log</string>
+    <string name="notify_log_hint">Log met diagnostische informatie over notificaties opslaan? Dit staat Folio niet toe om persoonlijke informatie te verzamelen.</string>
+
+    <string name="btn_chioce">Kies(%d)</string>
+
+    <string name="offline_folio">Schakel Offline Modus In</string>
+    <string name="offline_folio_hint">Uw browse-data opslaan?</string>
+
+    <string name="folio_lock">Schakel Folio Lock In</string>
+    <string name="folio_lock_hint">Uw vingerafdruk of een toegangscode gebruiken om Folio te vergrendelen/ontgrendelen?</string>
+
+    <string name="folio_message_bubble">SnelBerichten</string>
+    <string name="folio_message_bubble_hint">SnelBerichten inschakelen?</string>
+
+    <string name="folio_video">Video Uploaden</string>
+    <string name="folio_checkins">Inchecken</string>
+    <string name="folio_tags">Een vriend taggen</string>
+    <string name="folio_images">Een afbeelding uit uw gallerij uploaden</string>
+
+    <string name="not_found_offline" formatted="false"><![CDATA[<div style=\"position: absolute;top: 50%;left: 50%;transform: translateX(-50%) translateY(-50%);\"><div><h1>Helaas is deze pagina niet gevonden in Offline-modus</h1></div></div>]]></string>
+    <string name="loading_offline_database">Offline pagina wordt geladen</string>
+    <string name="offline_database_empty">Geen Offline pagina\'s gevonden</string>
+
+    <string name="unlock_text">Voer uw toegangscode in</string>
+    <string name="lock_abort">Annuleren</string>
+    <string name="lock_pin">Toegangscode</string>
+    <string name="lock_text">Vergrendel Folio met een toegangscode</string>
+    <string name="lock_confirm">Herhaal uw toegangscode</string>
+    <string name="lock_wrong">Toegangscode onjuist</string>
+    <string name="lock_empty">Toegangscode kan niet leeg zijn</string>
+</resources>
+
